@@ -1,0 +1,1 @@
+k = \sin \frac{ \theta_0}{2}

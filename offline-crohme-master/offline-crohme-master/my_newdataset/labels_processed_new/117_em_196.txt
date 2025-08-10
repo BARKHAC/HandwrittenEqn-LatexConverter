@@ -1,0 +1,1 @@
+\phi_A = \frac {M_0 L }{ 3 EI}

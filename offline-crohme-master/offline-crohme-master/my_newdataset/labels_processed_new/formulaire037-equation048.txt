@@ -1,0 +1,1 @@
+a d_1 \leq d_2 \leq b d_1

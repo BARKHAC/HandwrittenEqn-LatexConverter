@@ -1,0 +1,1 @@
+$ \sqrt {a} \sqrt {- a} = \sqrt {- a ^ {2}} = j \sqrt {a ^ {2}} $

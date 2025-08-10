@@ -1,0 +1,1 @@
+m_1 = \frac{h(X_1) + \ldots + h(X_n)}{n}

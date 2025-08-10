@@ -1,0 +1,1 @@
+\int_{-\infty}^\infty e^{-w^2}dw = \sqrt{\pi}

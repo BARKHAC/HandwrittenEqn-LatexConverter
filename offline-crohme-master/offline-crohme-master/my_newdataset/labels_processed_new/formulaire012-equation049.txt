@@ -1,0 +1,1 @@
+a_{tan} = r\alpha

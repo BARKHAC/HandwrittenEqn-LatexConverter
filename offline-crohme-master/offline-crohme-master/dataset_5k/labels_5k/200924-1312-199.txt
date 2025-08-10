@@ -1,0 +1,1 @@
+\int ^ { h } _ { \mbox { t } } t df

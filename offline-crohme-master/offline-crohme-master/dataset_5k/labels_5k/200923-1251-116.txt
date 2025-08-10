@@ -1,0 +1,1 @@
+{ \sqrt { \mbox { F } } } ^ { \left [ \mbox { k } \right ] } \left ( \lambda \right )

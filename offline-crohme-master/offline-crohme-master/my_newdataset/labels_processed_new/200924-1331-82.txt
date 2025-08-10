@@ -1,0 +1,1 @@
+\sum _ { { u \gt \mbox { v } } } { { { - \sigma } + \left ( \mbox { a } \right ) } }

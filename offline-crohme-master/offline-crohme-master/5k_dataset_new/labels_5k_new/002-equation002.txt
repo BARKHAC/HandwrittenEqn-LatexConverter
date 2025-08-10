@@ -1,0 +1,1 @@
+\exists \alpha, \forall x \in [a,b]

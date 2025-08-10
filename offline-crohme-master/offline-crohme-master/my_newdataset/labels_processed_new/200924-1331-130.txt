@@ -1,0 +1,1 @@
+\frac { { \frac { b } { { \mbox { P } } ^ { { \mbox { I } - { \mbox { e } } ^ { \gamma } \left ( V \right ) } } } - \sqrt { H } } } { \mbox { w } }

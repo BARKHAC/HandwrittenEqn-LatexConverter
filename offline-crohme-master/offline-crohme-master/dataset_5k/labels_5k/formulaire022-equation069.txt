@@ -1,0 +1,1 @@
+\lim_{n} \frac{1}{n} \sum_{k=0}^{n-1} f(X_k)

@@ -1,0 +1,1 @@
+0 \lt \left( 1 - \frac{L}{R_1} \right) \left( 1 - \frac{L}{R_2} \right) \lt 1

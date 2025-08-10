@@ -1,0 +1,1 @@
+\frac{1}{4}+\Bigg( \frac{1}{4} \Bigg)^2 + \Bigg( \frac{1}{4} \Bigg)^3+\cdots = \frac{1}{3}

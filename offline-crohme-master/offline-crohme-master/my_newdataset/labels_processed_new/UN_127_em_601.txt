@@ -1,0 +1,1 @@
+\tan\left(\frac{\pi(2k-1)}{4(2L+1)}\right)

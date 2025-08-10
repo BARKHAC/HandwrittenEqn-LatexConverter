@@ -1,0 +1,1 @@
+e^{i(n-k)x}e^{-ikx} = e^{i(n-2k)x}

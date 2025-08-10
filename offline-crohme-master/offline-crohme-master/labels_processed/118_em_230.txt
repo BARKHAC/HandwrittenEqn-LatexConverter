@@ -1,0 +1,1 @@
+1 = \frac{p e^{\frac {p}{q}}}{q}

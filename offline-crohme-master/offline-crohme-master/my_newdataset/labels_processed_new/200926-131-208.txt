@@ -1,0 +1,1 @@
+{ { \sin } ^ { \mbox { F } } \frac { V } { { \mu i } } } ^ { \mbox { v } \left ( \mbox { E } \right ) }

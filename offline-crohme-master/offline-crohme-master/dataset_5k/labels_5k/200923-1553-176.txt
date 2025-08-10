@@ -1,0 +1,1 @@
+\sum _ { { i \geq \left ( \mbox { N } \right ) } } { { \cdots - \sum { t } } }

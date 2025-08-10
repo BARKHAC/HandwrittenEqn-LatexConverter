@@ -1,0 +1,1 @@
+e^\phi + \frac 2 {\phi^3} - 3 \phi

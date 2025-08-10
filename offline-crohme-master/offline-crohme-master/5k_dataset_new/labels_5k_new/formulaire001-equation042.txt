@@ -1,0 +1,1 @@
+\frac {y_{i+1}-y_i}{x_{i+1}-x_i}=f(x_i,y_i)

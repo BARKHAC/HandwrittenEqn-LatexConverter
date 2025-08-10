@@ -1,0 +1,1 @@
+-\frac{d^2}{dx^2}+x\frac{d}{dx}+1

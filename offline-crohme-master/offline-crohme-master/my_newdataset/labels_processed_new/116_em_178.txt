@@ -1,0 +1,1 @@
+[XY]=[X^{\prime}Y^{\prime}]

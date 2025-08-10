@@ -1,0 +1,1 @@
+s_k = r_1^k + \ldots + r_n^k

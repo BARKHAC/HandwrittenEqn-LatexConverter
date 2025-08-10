@@ -1,0 +1,1 @@
+\int \frac {1} {\sqrt {a x ^ 2 + b x + c}} d x

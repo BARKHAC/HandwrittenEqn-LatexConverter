@@ -1,0 +1,1 @@
+\frac { { r \left ( g \right ) + p } } { \frac { \mbox { l } } { 1 } }

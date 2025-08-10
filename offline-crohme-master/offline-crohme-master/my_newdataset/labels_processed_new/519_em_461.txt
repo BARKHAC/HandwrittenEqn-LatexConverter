@@ -1,0 +1,1 @@
+\frac{\alpha}{2} - \frac{\alpha +1}{2} = \frac{1}{2}

@@ -1,0 +1,1 @@
+\sum \limits ^ {\infty} _ {n = 1} \frac {\cos \pi n} {n}

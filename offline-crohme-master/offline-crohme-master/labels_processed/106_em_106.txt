@@ -1,0 +1,1 @@
+\frac{1}{2{\pi}i}\int_{c-i\infty}^{c+i\infty}g(s)t^{s}=\pi(t)

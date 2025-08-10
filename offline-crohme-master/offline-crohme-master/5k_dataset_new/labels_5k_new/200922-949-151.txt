@@ -1,0 +1,1 @@
+\frac { { r - \sum { 2 } } } { { \mbox { L } } _ { \mbox { q } } }

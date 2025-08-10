@@ -1,0 +1,1 @@
+x^2- \beta_g x + \gamma_g

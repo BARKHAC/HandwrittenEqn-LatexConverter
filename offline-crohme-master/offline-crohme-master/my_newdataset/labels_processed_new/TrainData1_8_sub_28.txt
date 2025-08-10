@@ -1,0 +1,1 @@
+\left( z^{\frac{n}{2}} + y^{\frac{n}{2}} \right) \left( z^{\frac{n}{2}} - y^{\frac{n}{2}} \right) = x

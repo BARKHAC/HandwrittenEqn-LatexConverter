@@ -1,0 +1,1 @@
+\frac{\sin x}{x}=\frac{\sin x-\sin 0}{x-0}

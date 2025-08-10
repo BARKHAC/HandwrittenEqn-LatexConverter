@@ -1,0 +1,1 @@
+{ \left ( \sqrt { i } \right ) } ^ { { - M } }

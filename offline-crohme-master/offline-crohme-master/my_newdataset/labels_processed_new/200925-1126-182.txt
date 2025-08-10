@@ -1,0 +1,1 @@
+{ \tan } ^ { \mbox { n } } { \mbox { X } } ^ { { \mbox { L } + q } }

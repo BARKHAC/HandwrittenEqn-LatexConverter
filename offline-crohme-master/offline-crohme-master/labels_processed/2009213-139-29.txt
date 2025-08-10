@@ -1,0 +1,1 @@
+{ \sqrt { \mbox { u } } + { H } ^ { \mbox { E } } }

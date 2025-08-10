@@ -1,0 +1,1 @@
+\beta = 2 \cos(\frac{\pi}{12}) = \frac{1 + \sqrt 3 }{\sqrt 2}

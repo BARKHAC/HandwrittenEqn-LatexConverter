@@ -1,0 +1,1 @@
+\log_c(a - b) = \log_c(c^{(\log_ca - \log_cb)} - 1 )+ \log_cb

@@ -1,0 +1,1 @@
+\sum _ { { \mbox { h } \geq \mbox { t } } } { \mbox { H } }

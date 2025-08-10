@@ -1,0 +1,1 @@
+x^u dx^u=dx^u x^e

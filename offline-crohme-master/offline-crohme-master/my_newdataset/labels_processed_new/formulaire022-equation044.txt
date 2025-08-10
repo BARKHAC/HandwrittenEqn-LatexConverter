@@ -1,0 +1,1 @@
+\alpha = \lim_{n \rightarrow \infty}\frac {d_{n}}{d_{n+1}}

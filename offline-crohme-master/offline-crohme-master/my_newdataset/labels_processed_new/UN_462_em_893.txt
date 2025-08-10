@@ -1,0 +1,1 @@
+\sin \frac{k_1 \times k_2}{2}

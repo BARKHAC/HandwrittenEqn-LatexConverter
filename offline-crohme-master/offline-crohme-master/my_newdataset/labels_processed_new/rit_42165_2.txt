@@ -1,0 +1,1 @@
+\sin \lbrack a + b \rbrack = \sin a \cos b + \cos a \sin b

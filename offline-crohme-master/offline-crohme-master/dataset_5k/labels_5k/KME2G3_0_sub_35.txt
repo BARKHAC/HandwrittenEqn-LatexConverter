@@ -1,0 +1,1 @@
+\log_2 \frac 1 2 + \log_4 \frac 2 4

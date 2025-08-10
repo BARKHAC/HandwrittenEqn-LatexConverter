@@ -1,0 +1,1 @@
+\frac { \mbox { n } } { \mbox { P } }

@@ -1,0 +1,1 @@
+\sqrt{ \frac{1 + \sin^2 \alpha}{2}} = \cos \alpha

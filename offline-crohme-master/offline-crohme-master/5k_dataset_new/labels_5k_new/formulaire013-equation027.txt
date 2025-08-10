@@ -1,0 +1,1 @@
+\lim_{x \rightarrow 0} \frac{e^x - 1}{x} = 1

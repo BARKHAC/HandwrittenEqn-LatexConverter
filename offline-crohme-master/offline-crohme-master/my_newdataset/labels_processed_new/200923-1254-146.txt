@@ -1,0 +1,1 @@
+{ \mbox { x } \gt { \mbox { X } q } }

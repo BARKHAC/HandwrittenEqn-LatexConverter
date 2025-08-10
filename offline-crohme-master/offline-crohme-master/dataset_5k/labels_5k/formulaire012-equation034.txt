@@ -1,0 +1,1 @@
+s = b_k - \frac{b_k-b_{k-1}}{f(b_k)-f(b_{k-1})} f(b_k)

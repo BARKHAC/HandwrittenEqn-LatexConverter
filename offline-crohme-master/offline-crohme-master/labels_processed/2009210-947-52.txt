@@ -1,0 +1,1 @@
+{ - \sum _ { { 5 \gt \mbox { d } } } { \mbox { x } } }

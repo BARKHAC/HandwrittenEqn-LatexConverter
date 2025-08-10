@@ -1,0 +1,1 @@
+\int { \mbox { B } } _ { i } dm

@@ -1,0 +1,1 @@
+x=\alpha_{1} y_{1}+\ldots+\alpha_{n+1}y_{n+1}

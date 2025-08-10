@@ -1,0 +1,1 @@
+y = pgcd(x_a - x_b, n)

@@ -1,0 +1,1 @@
+T(t) = \frac {\alpha^{\prime}(t)}{|| \alpha^{\prime}(t) ||}

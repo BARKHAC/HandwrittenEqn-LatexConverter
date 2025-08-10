@@ -1,0 +1,1 @@
+f= \frac{y+y_B}{x-x_B}

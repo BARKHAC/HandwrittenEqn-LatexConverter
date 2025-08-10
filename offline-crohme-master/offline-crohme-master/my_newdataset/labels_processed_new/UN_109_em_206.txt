@@ -1,0 +1,1 @@
+\lim_{t \rightarrow \infty } 2 f_0(t) f_1(t) =0

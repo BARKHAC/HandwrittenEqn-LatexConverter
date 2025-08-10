@@ -1,0 +1,1 @@
+\frac{1}{n^2} [\cos(\theta(p)-\theta(pn))-1]

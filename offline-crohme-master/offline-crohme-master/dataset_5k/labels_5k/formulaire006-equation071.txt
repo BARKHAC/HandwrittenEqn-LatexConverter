@@ -1,0 +1,1 @@
+dg_{\beta} = dg_{\alpha}

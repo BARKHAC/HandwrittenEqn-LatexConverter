@@ -1,0 +1,1 @@
+\alpha_{in}=x_{in}+ip_{in}

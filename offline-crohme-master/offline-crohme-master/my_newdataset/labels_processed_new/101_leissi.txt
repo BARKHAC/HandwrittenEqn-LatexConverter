@@ -1,0 +1,1 @@
+S = \Bigg( \sum_{i=1}^{n} \theta_i - (n-2)\pi \Bigg)r^2

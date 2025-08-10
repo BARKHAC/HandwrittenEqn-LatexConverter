@@ -1,0 +1,1 @@
+y=C_1y_1+C_2y_2+\ldots+C_ny_n

@@ -1,0 +1,1 @@
+S_{\infty}=\lim_{n \rightarrow \infty}\frac{a(1-r^n)}{1-r}= \frac{a}{1-r}

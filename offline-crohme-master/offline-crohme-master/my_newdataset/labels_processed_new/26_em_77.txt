@@ -1,0 +1,1 @@
+x^ie_i=\sum_i x^ie_i

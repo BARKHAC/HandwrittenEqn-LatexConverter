@@ -1,0 +1,1 @@
+x = 2 n \pi \pm \frac{\pi}{3}

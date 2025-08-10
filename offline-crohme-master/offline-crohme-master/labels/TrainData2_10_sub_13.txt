@@ -1,0 +1,1 @@
+\frac{\sin \theta + \cos \theta + \tan \theta}{x + y + z}

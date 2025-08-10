@@ -1,0 +1,1 @@
+{ { - \mbox { s } } + \frac { \mbox { T } } { L } }

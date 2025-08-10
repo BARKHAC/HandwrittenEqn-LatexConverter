@@ -1,0 +1,1 @@
+(\gamma_x(t),\gamma_y(t))

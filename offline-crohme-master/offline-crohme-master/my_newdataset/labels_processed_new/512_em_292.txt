@@ -1,0 +1,1 @@
+\int \left(\sin(t)-t\right)dt=-\cos(t)-\frac{1}{2}{t}^{2}

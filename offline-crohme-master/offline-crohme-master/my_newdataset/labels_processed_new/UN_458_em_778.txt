@@ -1,0 +1,1 @@
+G^{abcd}=(\sqrt{h}/2)(h^{ac} h^{bd}+h^{ad} h^{bc}-2 h^{ab} h^{cd})

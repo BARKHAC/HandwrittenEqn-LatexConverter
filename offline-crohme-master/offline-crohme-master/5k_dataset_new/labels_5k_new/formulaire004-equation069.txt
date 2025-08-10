@@ -1,0 +1,1 @@
+r_k=\frac{\int_{t_k}^{t_{k+1}}x p_X(x)}{\int_{t_k}^{t_{k+1}}p_X(x)}

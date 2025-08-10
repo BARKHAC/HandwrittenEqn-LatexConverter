@@ -1,0 +1,1 @@
+B(a,b)=\left( \frac{a+b}{b} \right)\left( \frac{a+b+1}{a} \right) B(a+1,b+1)

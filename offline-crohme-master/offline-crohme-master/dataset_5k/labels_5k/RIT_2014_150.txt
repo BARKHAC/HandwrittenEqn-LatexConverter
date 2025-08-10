@@ -1,0 +1,1 @@
+\cos \theta = \frac {e ^ {i \theta} + e ^ {- i \theta}} {2}

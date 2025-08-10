@@ -1,0 +1,1 @@
+\frac{d^2u}{dt^2} = -\frac {2}{a}\frac{e^{-2t}}{1+ce^u}

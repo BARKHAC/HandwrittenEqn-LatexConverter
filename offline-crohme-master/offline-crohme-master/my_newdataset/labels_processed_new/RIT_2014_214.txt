@@ -1,0 +1,1 @@
+\sum \limits ^ {n + 1} _ {i = 1} i = \sum \limits ^ {n} _ {i = 1} i + (n + 1) = \frac {n (n + 1)} {2} + n + 1

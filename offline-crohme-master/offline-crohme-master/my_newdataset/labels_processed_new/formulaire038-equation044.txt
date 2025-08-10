@@ -1,0 +1,1 @@
+h_{n} = \frac{a}{\sqrt{2}} \times \sqrt{\frac{n+1}{n}}

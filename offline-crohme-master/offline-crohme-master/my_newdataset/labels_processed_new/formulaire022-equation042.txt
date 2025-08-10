@@ -1,0 +1,1 @@
+\frac{x-x_0}{u}=\frac{y-y_0}{v}=\frac{z-z_0}{w}

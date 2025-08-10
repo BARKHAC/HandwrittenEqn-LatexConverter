@@ -1,0 +1,1 @@
+\int ^ { n } _ { { z o } } { \mbox { p } - B } dd

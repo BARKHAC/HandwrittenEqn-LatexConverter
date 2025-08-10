@@ -1,0 +1,1 @@
+L = \int ^ {\infty} _ {0} L _ {\lambda} d \lambda

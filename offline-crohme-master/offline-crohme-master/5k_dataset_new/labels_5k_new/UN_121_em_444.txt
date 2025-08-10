@@ -1,0 +1,1 @@
+x^4 = b r \sin\theta\cos\phi

@@ -1,0 +1,1 @@
+{ G + { \mbox { N } + \Delta } }

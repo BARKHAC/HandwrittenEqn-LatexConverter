@@ -1,0 +1,1 @@
+\beta(t,\beta(s,x)) = \beta(t+s,x)

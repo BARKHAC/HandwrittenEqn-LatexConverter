@@ -1,0 +1,1 @@
+\sum _ { { \mbox { I } = \mbox { b } } } ^ { \left ( \mbox { V } \right ) } { { v + \gamma } }

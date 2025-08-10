@@ -1,0 +1,1 @@
++ 7 \times 9 ^ {5} + 7 \times 9 ^ {4} + 7 \times 9 ^ {3} + 7 \times 9 ^ {2} + 7 \times 9

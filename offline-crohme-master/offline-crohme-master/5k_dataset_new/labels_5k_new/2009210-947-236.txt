@@ -1,0 +1,1 @@
+\frac { \mbox { s } } { \int 9 dN }

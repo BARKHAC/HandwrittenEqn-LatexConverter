@@ -1,0 +1,1 @@
+\sum _ { { \mbox { P } = \mbox { p } } } ^ { \sum { 1 } } { k }

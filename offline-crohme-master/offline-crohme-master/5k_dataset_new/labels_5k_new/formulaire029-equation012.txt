@@ -1,0 +1,1 @@
+{({d t})^2} = \frac{l (d \theta)^2}{2g (\cos(\theta) - \cos(\theta_0))}

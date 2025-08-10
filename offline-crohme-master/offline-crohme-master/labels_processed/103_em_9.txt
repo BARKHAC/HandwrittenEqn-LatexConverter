@@ -1,0 +1,1 @@
+\mathrm d\left(x,y\right) = p\left(x-y\right)

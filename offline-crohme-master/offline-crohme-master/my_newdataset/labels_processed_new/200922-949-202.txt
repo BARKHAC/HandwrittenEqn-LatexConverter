@@ -1,0 +1,1 @@
+{ \mbox { f } \lt { \mbox { z } } _ { X } }

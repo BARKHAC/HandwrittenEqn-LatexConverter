@@ -1,0 +1,1 @@
+n_{abc}=n_a+n_b+n_c

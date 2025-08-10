@@ -1,0 +1,1 @@
+\frac { \int \sqrt { s } du } { { \tan } ^ { \mbox { g } } \mbox { q } }

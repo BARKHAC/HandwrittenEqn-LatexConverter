@@ -1,0 +1,1 @@
+{ \mbox { C } } _ { { \mbox { G } } _ { \mbox { A } } }

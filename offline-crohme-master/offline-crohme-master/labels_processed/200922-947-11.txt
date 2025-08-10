@@ -1,0 +1,1 @@
+{ \frac { \mbox { S } } { G } \sum { P } }

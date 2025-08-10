@@ -1,0 +1,1 @@
+\cos 3 \theta = 4 \cos ^ {3} \theta - 3 \cos \theta

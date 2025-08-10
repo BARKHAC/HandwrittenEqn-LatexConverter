@@ -1,0 +1,1 @@
+{ - \sum _ { { 8 \geq \mbox { d } } } { \sqrt { \mbox { x } } } }

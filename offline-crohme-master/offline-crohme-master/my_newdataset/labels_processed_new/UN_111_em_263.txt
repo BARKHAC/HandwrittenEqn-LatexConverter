@@ -1,0 +1,1 @@
+0\leq m \leq \frac{p+1}{2}

@@ -1,0 +1,1 @@
+\int \Delta d { \mbox { M } } _ { H }

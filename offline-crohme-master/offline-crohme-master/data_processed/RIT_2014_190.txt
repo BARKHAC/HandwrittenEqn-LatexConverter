@@ -1,0 +1,1 @@
+$ B \sin (n \pi y) _ {=} \sin (\pi y) + \frac {1} {5} \sin (3 \pi y) $

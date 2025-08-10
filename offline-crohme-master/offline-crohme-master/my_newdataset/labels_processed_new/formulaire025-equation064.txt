@@ -1,0 +1,1 @@
+\frac{d^{2}r}{dt^{2}}=-\alpha\frac{r}{r^{3}}

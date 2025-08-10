@@ -1,0 +1,1 @@
+{f(x)=\sum_{k=1}^\infty \frac {\sin(2^k x)} {\sqrt{2}^k}}

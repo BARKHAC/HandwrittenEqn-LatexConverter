@@ -1,0 +1,1 @@
+f(x)=\sum_{k=1}^{+\infty}\frac 1 k \sin (k^2 x)

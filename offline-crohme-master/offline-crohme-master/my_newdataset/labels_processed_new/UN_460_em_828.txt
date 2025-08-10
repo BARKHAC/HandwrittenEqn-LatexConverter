@@ -1,0 +1,1 @@
+\sin 2M=2\sin M\cos M

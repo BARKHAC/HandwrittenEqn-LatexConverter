@@ -1,0 +1,1 @@
+v_{\phi}v_g \leq c^2

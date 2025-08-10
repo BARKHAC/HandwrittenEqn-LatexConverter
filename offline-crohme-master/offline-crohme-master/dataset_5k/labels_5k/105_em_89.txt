@@ -1,0 +1,1 @@
+P_f=p_c\times (1-o_i-o_t)+o_t

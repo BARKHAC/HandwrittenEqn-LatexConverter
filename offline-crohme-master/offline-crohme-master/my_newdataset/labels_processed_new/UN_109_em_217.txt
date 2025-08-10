@@ -1,0 +1,1 @@
+\frac{l+m}{\sqrt{1+\alpha^2}}

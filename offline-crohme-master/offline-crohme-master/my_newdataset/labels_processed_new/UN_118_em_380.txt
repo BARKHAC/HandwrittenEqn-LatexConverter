@@ -1,0 +1,1 @@
+\int dx dp (f - h f^2) \geq 0

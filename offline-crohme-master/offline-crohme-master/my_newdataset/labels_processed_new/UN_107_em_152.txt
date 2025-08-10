@@ -1,0 +1,1 @@
+z(t)=\sqrt{\frac{m}{2}}\left( x(t)+iy(t) \right )

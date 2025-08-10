@@ -1,0 +1,1 @@
+\lim_{r\rightarrow \infty} \frac {u_n(r)}{r^{n}}=0

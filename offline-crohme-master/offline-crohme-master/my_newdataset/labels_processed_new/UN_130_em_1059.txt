@@ -1,0 +1,1 @@
+\sum_a A^i_{ aa}=\sum_a A^{i a}_{ a}

@@ -1,0 +1,1 @@
+\frac { { \mbox { g } + \mbox { g } } } { { \mbox { x } - \gamma } }

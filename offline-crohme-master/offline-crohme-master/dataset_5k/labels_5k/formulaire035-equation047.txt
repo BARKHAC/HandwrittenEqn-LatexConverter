@@ -1,0 +1,1 @@
+\sum_{i=1}^{m} \frac {(n_{i} - n \times p_{i})^{2}} {n \times p_{i}}

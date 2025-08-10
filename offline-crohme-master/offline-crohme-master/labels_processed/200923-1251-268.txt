@@ -1,0 +1,1 @@
+\frac { { { \mbox { P } \mbox { V } } - \alpha } } { 6.1 }

@@ -1,0 +1,1 @@
+(a-x)(d-x)-bc=x^2-(a+d)x+(ad-bc)

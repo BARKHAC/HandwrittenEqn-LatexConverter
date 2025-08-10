@@ -1,0 +1,1 @@
+\cos 4 \theta + i \sin 4 \theta = { ( \cos \theta + i \sin \theta ) }^4

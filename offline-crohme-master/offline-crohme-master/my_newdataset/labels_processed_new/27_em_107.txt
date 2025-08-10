@@ -1,0 +1,1 @@
+\int kx^n dx = k \int x^n dx

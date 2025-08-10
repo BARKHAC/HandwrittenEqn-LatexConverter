@@ -1,0 +1,1 @@
+\sum a_n \cos(nx) + b_n \sin(nx)

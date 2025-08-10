@@ -1,0 +1,1 @@
+\frac{dA^{-1}}{dx} = - A^{-1}\frac{dA}{dx} A^{-1}

@@ -1,0 +1,1 @@
+a_1\ldots a_g b_1\ldots b_g a_1^{-1}\ldots a_g^{-1} b_1^{-1}\ldots b_g^{-1}=1

@@ -1,0 +1,1 @@
+\int \frac { \sin \left ( x \right ) + 1 } { \sqrt { \cos ^ 3 \left ( x \right ) + \tan \left ( x \right ) } } d x

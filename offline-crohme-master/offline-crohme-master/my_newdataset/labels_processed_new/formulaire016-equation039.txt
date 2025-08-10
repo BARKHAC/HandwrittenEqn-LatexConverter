@@ -1,0 +1,1 @@
+s = f(s_1,\ldots,s_n)

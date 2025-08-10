@@ -1,0 +1,1 @@
+\sum d_n^2 = \sum d_x^2

@@ -1,0 +1,1 @@
+l(1-\cos(\theta_0) )= (l-a)(1-\cos(\theta))

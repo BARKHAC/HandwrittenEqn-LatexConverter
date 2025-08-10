@@ -1,0 +1,1 @@
+[\frac{2u}{3}+\frac{v}{3},\frac{2v}{3}+\frac{u}{3}]

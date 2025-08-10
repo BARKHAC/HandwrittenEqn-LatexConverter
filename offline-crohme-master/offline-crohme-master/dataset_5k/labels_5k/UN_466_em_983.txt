@@ -1,0 +1,1 @@
+-\frac {1}{ 2}\pm \sqrt{H\left(s+\frac {1}{ 2}\right)+4}

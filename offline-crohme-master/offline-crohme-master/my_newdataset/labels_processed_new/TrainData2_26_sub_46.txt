@@ -1,0 +1,1 @@
+\lim_{x \rightarrow - 1} \frac{x^{3} + 1}{x + 1}

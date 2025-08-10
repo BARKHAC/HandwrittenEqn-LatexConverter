@@ -1,0 +1,1 @@
+C_t = N\times (G-1)\times C

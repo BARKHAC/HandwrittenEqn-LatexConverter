@@ -1,0 +1,1 @@
+{ \frac { i } { \mbox { G } } \sum { \pi } }

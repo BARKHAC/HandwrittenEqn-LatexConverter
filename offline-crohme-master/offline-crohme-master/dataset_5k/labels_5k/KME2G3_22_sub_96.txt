@@ -1,0 +1,1 @@
+[ b^x \{ ( \frac a b )^x + 1 \} ]^{\frac 1 x}

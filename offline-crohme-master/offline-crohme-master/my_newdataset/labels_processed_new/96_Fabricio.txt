@@ -1,0 +1,1 @@
+y = a S(t) = a \int_0^{t} \sin(\frac{1}{2}\pi s^2) ds

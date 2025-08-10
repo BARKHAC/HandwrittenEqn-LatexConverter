@@ -1,0 +1,1 @@
+\sqrt { \frac { 2 z ^ 3 } { \sqrt { \frac { 3 z ^ 2 } { \sqrt { 4 z } } } } }

@@ -1,0 +1,1 @@
+g(a) = \alpha_n \neq 0

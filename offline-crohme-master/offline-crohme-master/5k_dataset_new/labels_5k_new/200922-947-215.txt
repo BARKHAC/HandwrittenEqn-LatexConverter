@@ -1,0 +1,1 @@
+{ u } ^ { { \mbox { M } } _ { m } } \left ( \mbox { X } \right )

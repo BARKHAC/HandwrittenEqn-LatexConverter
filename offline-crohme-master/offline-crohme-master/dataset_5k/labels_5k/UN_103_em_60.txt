@@ -1,0 +1,1 @@
+\sum_n \int_0^1 dx (1-x) f(x,n) =\sum_n\int_0^1 dy y f(y,n)

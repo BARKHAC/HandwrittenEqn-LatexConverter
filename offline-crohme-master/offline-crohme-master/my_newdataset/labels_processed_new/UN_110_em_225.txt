@@ -1,0 +1,1 @@
+\beta = 2 \cos(\frac{\pi}{5}) = \frac{1+\sqrt 5}{2}

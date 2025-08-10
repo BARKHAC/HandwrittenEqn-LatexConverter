@@ -1,0 +1,1 @@
+{ { \sqrt { \phi \left ( \mbox { w } \right ) } } ^ { { \mbox { s } + B } } { q } _ { \mbox { u } } }

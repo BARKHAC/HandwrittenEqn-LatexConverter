@@ -1,0 +1,1 @@
+\int a(x) d^2x=\int b(x) d^2x=0

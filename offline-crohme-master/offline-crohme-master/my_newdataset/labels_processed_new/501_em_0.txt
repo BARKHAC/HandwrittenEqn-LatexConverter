@@ -1,0 +1,1 @@
+\int\frac{1}{(ax^2+bx+c)^n}  dx

@@ -1,0 +1,1 @@
+x = 2 \times 70 + 3 \times 21 + 2 \times 15 = 233

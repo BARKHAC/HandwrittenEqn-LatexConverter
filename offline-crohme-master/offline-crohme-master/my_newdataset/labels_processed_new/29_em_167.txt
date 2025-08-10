@@ -1,0 +1,1 @@
+\cos(nx)=2\cos(x)\cos[(n-1)x]-\cos[(n-2)x]

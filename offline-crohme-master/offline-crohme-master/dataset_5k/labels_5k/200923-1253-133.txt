@@ -1,0 +1,1 @@
+\frac { { 2 - \mbox { L } } } { { { - \mbox { r } } + \frac { a } { \mbox { R } } } }

@@ -1,0 +1,1 @@
+\frac{a}{b}\frac{e}{f} + \frac{c}{d}\frac{e}{f}= \frac{(ad + cb)e}{bdf}

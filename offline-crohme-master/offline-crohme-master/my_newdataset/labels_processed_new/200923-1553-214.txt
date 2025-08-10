@@ -1,0 +1,1 @@
+{ x + { \mbox { w } } ^ { 2 } \left ( \mbox { G } \right ) }

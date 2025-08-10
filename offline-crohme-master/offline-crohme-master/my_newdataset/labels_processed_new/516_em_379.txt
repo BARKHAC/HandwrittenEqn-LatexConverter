@@ -1,0 +1,1 @@
+\lim_{n \rightarrow \infty} f_n(x) =0 \!

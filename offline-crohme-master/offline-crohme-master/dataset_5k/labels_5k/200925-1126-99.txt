@@ -1,0 +1,1 @@
+{ { \left ( q \left ( i \right ) \right ) - { V } _ { \mbox { w } } } \lt \Delta }

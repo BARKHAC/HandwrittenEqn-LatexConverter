@@ -1,0 +1,1 @@
+r = \sum_{i=k}^\infty a_i p^i

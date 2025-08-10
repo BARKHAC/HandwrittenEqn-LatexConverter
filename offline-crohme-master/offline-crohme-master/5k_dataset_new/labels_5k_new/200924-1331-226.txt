@@ -1,0 +1,1 @@
+{ \theta } ^ { \infty } \left ( \mbox { n } \right )

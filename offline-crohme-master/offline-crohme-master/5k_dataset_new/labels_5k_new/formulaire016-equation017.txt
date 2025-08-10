@@ -1,0 +1,1 @@
+\phi_p(x)=p\phi(px)

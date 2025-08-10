@@ -1,0 +1,1 @@
+\tan 2 u = \frac {2 \tan u} {1 - \tan ^ {2} u}

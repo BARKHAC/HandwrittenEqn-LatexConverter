@@ -1,0 +1,1 @@
+{ 8.5 + { \left ( r \right ) } ^ { \mbox { b } } }

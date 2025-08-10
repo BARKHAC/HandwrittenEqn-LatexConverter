@@ -1,0 +1,1 @@
+{ \left ( \mbox { C } \right ) } ^ { { 9 + \mbox { e } } }

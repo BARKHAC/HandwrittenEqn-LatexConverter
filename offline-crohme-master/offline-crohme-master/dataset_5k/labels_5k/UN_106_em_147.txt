@@ -1,0 +1,1 @@
+\sum\sum_{b<a}^N \lambda_a \lambda_b=\sum_{a=1}^N r_aq_a^2-\sum_{a=1}^N q_a^2 \sum_{b=1}^N r_b+\sum\sum_{b<a}^N r_br_a

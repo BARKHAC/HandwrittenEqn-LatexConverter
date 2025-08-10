@@ -1,0 +1,1 @@
+{ { \sqrt { \int y dw } } ^ { \sqrt { \sigma } } + { \sqrt { \mbox { C } } } ^ { \mbox { k } } }

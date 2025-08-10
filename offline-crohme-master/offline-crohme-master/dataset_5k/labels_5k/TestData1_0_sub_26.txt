@@ -1,0 +1,1 @@
+\sin \left( \alpha + \beta \right) \sin \left( \alpha - \beta \right) = \sin^{2} \alpha - \sin^{2} \beta

@@ -1,0 +1,1 @@
+\sum _ { { \mbox { g } \gt \alpha } } { \mbox { H } }

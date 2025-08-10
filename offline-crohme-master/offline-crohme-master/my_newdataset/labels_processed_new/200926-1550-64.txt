@@ -1,0 +1,1 @@
+{ \beta - { L } ^ { k } \left ( t \right ) }

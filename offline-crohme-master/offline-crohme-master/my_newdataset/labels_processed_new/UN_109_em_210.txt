@@ -1,0 +1,1 @@
+\tan \theta_k = \pm \frac{\sqrt{1-T^2}}{T}

@@ -1,0 +1,1 @@
+S_{eff}^F[\phi^\prime ] +S_1[\phi^\prime ] = S_{eff}^{F^\prime}[\phi^\prime]

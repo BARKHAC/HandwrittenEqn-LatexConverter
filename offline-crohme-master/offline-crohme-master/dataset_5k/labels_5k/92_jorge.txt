@@ -1,0 +1,1 @@
+y = \frac{x\prime\sin\theta+y\prime\sin(w\prime+\theta)}{\sin w}

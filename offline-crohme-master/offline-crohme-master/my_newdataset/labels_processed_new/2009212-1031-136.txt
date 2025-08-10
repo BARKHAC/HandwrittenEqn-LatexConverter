@@ -1,0 +1,1 @@
+\int { \mbox { S } } ^ { \mbox { t } } dC

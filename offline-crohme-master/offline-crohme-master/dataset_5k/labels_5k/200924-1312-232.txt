@@ -1,0 +1,1 @@
+\left [ { E - \sqrt { \frac { i } { \sum { \mbox { e } } } } } \right ]

@@ -1,0 +1,1 @@
+{ 6 \sum _ { { V \gt E } } { { \mbox { m } - \frac { \mbox { R } } { \mbox { H } } } } }

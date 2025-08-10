@@ -1,0 +1,1 @@
+\frac{1}{\frac{1}{2}\Big( \frac{1}{a} + \frac{1}{b}\Big)} = \frac{2ab}{a+b}

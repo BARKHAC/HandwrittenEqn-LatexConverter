@@ -1,0 +1,1 @@
+z(X) = \sum_{i=1}^n x_ip_i + \sum_{i=1}^n\sum_{j=1}^n x_ix_jg_{ij}

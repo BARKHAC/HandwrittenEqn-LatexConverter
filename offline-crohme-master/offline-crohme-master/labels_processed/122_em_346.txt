@@ -1,0 +1,1 @@
+\left|a-\frac{p}{q}\right| \geq \frac{C}{q^d}

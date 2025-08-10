@@ -1,0 +1,1 @@
+x^{\frac{a}{b}} = \sqrt[b]{x^a} = {\sqrt[b]{x}}^a

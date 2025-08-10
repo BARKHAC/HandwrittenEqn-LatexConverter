@@ -1,0 +1,1 @@
+\exists x \forall y (x R y)

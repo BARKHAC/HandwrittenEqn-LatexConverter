@@ -1,0 +1,1 @@
+\mathrm{card}(B^A) = 2^{\mathrm{card}(A)}

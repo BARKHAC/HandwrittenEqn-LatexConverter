@@ -1,0 +1,1 @@
+\sqrt{l_1} + \sqrt{l_2} \geq \sqrt{l_3}

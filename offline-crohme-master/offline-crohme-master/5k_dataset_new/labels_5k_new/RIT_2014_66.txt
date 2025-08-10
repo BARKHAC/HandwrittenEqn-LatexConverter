@@ -1,0 +1,1 @@
+\sum \limits ^ {n} _ {k = 1} a _ {k} = \sum \limits ^ {n} _ {i = 1} a = \sum \limits ^ {n} _ {j = 1} a _ {j}

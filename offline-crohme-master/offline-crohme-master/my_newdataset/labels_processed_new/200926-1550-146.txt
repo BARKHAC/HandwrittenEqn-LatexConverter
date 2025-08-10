@@ -1,0 +1,1 @@
+\int ^ { \mbox { d } } _ { \frac { h } { 3 } } \sum { \mbox { H } } dq

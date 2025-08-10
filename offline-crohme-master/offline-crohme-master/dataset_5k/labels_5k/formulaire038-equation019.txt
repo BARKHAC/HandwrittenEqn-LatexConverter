@@ -1,0 +1,1 @@
+\theta = \frac{2k \pi }{q}

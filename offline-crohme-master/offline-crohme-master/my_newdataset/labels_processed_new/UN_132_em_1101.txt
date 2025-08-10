@@ -1,0 +1,1 @@
+f(\pm \pi,\pm \pi,\pm \pi)=-f(\pm \pi,\pm \pi,\pm \pi)=0

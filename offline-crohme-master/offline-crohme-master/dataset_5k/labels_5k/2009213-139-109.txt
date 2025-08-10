@@ -1,0 +1,1 @@
+{ \theta \leq { \mbox { f } + \frac { \beta } { 7 } } }

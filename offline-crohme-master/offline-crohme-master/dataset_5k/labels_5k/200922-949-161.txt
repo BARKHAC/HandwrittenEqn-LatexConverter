@@ -1,0 +1,1 @@
+\frac { { i + { i } ^ { \mbox { B } } } } { \left [ a \right ] }

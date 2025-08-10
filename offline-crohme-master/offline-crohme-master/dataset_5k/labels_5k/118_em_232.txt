@@ -1,0 +1,1 @@
+r^{\prime} = B^n x + \alpha - (B y + \beta)^n

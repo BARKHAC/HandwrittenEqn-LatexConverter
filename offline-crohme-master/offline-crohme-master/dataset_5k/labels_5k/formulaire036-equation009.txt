@@ -1,0 +1,1 @@
+v_s(t)=\frac{dx_s(t)}{dt}

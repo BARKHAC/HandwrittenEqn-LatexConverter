@@ -1,0 +1,1 @@
+\sqrt{zw}=\sqrt{z}\sqrt{w}

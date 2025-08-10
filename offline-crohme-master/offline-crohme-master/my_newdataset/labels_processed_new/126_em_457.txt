@@ -1,0 +1,1 @@
+\mathrm ds^2 = \mathrm dr^2 + r^2\mathrm d\theta^2 + \mathrm dz^2

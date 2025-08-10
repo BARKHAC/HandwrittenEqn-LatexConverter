@@ -1,0 +1,1 @@
+f(a i + b j + c k ) = \frac{1 + i + j + k }{2} (a i + b j + c k ) \frac{1 - i - j - k }{2}

@@ -1,0 +1,1 @@
+R(x)=\frac{1}{\sqrt{n + \frac{q}{2\pi} \cos^2(nx)}}

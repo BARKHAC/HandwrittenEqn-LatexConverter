@@ -1,0 +1,1 @@
+z={(\sin\frac {1}{2}\theta_{12}\sin\frac {1}{2}\theta_{34})}/{(\sin\frac {1}{2}\theta_{13}\sin\frac {1}{2}\theta_{24})}

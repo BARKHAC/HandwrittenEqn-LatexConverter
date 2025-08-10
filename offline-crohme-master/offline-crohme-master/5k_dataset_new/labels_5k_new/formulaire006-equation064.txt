@@ -1,0 +1,1 @@
+dt = \sqrt{\frac{l}{2g}}{\frac{d \theta}{\sqrt{\cos \theta -\cos \theta_0}}}

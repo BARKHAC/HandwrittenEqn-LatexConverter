@@ -1,0 +1,1 @@
+g^{\prime}(b) = \frac {1}{ b}

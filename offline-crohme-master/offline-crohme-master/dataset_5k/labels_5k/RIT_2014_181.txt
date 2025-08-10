@@ -1,0 +1,1 @@
+\lim \limits _ {b \rightarrow \infty} f (b)

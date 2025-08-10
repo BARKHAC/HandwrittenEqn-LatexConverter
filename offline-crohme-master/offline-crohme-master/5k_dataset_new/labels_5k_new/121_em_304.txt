@@ -1,0 +1,1 @@
+B_N(a)=\sum_{k=N}^ \infty \frac{16^{N-k}}{8k+a}

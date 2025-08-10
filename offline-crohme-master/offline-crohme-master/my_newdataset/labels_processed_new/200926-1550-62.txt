@@ -1,0 +1,1 @@
+\left ( \sin \left ( x \right ) ^ 2 + 3 \cos \left ( x \right ) ^ 2 \right ) ^ 4

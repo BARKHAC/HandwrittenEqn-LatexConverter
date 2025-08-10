@@ -1,0 +1,1 @@
+\alpha (a b) = (\alpha a) b = a (\alpha b)

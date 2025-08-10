@@ -1,0 +1,1 @@
+\sum _ {n \geq _ {0}} \frac {1} {x _ n}

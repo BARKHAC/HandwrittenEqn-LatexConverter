@@ -1,0 +1,1 @@
+\frac{\beta}{\alpha+1}

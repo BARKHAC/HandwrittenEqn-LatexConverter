@@ -1,0 +1,1 @@
+E(s^2_{n}) = E(X)^2+V(X) - E(X)^2-\frac{1}{n}V(X)=\frac{n-1}{n}V(X)

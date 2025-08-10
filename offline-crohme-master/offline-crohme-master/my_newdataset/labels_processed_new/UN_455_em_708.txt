@@ -1,0 +1,1 @@
+V_{\alpha} = \sqrt{n_a^2 + m_a^2 + 2n_am_a\cos(2\alpha)}

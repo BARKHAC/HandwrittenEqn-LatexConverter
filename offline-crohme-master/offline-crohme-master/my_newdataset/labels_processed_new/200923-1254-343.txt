@@ -1,0 +1,1 @@
+\int ^ { \frac { t } { \mbox { x } } } _ { \frac { \mbox { Y } } { d } } \sum { 8 } d \theta

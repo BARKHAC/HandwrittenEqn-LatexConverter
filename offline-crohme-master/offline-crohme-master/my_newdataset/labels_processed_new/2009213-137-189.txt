@@ -1,0 +1,1 @@
+{ \left [ \mbox { L } \right ] } ^ { { { - p } - \mbox { S } } } \left ( \frac { k } { \mbox { j } } \right )

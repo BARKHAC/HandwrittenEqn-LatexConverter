@@ -1,0 +1,1 @@
+{ \mbox { A } } _ { { \mbox { k } } _ { \mbox { Y } } }

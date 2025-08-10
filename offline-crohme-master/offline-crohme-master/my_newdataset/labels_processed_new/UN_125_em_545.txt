@@ -1,0 +1,1 @@
+f(x)-1+\sum_n x^n b_n(f)

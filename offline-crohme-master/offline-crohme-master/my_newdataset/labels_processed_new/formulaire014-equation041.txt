@@ -1,0 +1,1 @@
+\frac{xy}{x}=\frac{y}{1}

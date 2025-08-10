@@ -1,0 +1,1 @@
+{ - { \mbox { H } { \sqrt { { \mbox { g } - \left ( g \right ) } } } ^ { P } } }

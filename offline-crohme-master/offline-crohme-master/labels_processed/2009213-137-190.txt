@@ -1,0 +1,1 @@
+\int { - \mbox { a } } d { H } _ { \gamma }

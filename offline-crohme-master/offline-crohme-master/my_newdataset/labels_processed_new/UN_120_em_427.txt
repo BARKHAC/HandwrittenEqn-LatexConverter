@@ -1,0 +1,1 @@
+-b\leq x(p) \leq b

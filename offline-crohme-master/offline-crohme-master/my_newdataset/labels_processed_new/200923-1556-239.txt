@@ -1,0 +1,1 @@
+\frac { R } { \frac { n } { \mbox { n } } }

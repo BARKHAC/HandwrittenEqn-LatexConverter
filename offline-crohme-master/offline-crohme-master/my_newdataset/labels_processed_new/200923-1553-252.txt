@@ -1,0 +1,1 @@
+\int ^ { V } _ { A \left ( \mbox { X } \right ) } \sum { c } dy

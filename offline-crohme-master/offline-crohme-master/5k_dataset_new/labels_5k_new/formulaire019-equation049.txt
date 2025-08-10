@@ -1,0 +1,1 @@
+h(f,\alpha) = \lim_{n \rightarrow + \infty} \frac{1}{qn}

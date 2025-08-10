@@ -1,0 +1,1 @@
+R(x)=\frac{1}{\sqrt{n+b \sin(2nx)}}

@@ -1,0 +1,1 @@
+{ M + \frac { \mbox { i } } { \mbox { d } } }

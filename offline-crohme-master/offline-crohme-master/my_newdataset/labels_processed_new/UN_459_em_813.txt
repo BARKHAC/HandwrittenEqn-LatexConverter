@@ -1,0 +1,1 @@
+\lim_{y\rightarrow+\infty} H(0,y)=1

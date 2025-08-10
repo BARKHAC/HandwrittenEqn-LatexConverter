@@ -1,0 +1,1 @@
+a \left( n \right) = \sum^{n}_{k = 1} \left( - 1 \right)^{n - k} k !

@@ -1,0 +1,1 @@
+{ \mbox { G } + \sqrt { \mbox { k } } }

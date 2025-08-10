@@ -1,0 +1,1 @@
+\alpha_{xy}e_xe_y+\alpha_{yy}e_y^2

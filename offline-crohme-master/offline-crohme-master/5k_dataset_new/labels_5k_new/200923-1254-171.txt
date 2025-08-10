@@ -1,0 +1,1 @@
+{ \mbox { o } } ^ { { \beta + \mbox { r } } }

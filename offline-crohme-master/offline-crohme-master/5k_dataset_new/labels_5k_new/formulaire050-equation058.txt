@@ -1,0 +1,1 @@
+\frac{f(x)}{g(x)} = \frac{f(x) - f(a)}{x-a}\frac{x - a}{g(x) - g(a)}

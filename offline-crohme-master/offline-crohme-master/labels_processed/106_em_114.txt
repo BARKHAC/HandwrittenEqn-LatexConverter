@@ -1,0 +1,1 @@
+\frac{(n+k-1)(n+k-2)\ldots(n+1)n}{k(k-1)\ldots 2\times 1}

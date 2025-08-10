@@ -1,0 +1,1 @@
+\int ^ { 2 } _ { { \mbox { L } + \mbox { w } } } c d \gamma

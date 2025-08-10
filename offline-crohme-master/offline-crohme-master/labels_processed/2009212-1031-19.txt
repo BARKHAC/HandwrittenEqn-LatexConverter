@@ -1,0 +1,1 @@
+\sum _ { { \mbox { Y } = M } } ^ { { \mbox { P } } ^ { \mbox { r } } \left ( \mbox { x } \right ) } { { G + V } }

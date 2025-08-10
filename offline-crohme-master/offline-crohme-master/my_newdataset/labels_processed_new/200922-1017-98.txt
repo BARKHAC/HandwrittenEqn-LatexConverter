@@ -1,0 +1,1 @@
+\sum _ { { \mbox { n } = \beta } } ^ { 8 } { { - \mbox { r } } }

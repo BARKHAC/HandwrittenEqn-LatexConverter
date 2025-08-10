@@ -1,0 +1,1 @@
+A_{2k} = \frac{2RA_k}{2R + \sqrt{4R^2 + A^2_k}}

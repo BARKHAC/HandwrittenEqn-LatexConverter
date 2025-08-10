@@ -1,0 +1,1 @@
+| x - \frac{p_n}{q_n} | \leq \frac{1}{q_nq_{n+1}} \lt  \frac{1}{q_n^2}

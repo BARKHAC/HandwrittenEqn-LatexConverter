@@ -1,0 +1,1 @@
+\sum _ { { \mbox { z } \geq F } } { c }

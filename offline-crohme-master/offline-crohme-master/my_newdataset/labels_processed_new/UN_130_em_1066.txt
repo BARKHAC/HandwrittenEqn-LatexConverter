@@ -1,0 +1,1 @@
+\sum^{+\infty}_{n= -\infty} (-1)^n

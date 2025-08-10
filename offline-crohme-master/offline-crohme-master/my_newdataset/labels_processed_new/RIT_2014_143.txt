@@ -1,0 +1,1 @@
+| x \parallel y | = | x y |

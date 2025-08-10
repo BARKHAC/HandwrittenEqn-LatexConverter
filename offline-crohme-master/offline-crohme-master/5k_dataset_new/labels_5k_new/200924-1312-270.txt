@@ -1,0 +1,1 @@
+\log \frac { \mbox { Y } } { { o - y } }

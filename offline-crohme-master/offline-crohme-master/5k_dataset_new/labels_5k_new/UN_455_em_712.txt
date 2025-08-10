@@ -1,0 +1,1 @@
+A = a^{\alpha_1\ldots\alpha_r} \gamma_{\alpha_1}\gamma_{\alpha_2} \ldots \gamma_{\alpha_r}

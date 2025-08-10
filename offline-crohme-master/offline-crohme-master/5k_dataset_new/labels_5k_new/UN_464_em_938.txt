@@ -1,0 +1,1 @@
+\frac{m}{\sqrt{2}} \sqrt{1 +\frac{m^{2}}{2M^{2}}}

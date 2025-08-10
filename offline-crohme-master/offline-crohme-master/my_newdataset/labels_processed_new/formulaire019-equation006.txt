@@ -1,0 +1,1 @@
+xy^2 + ey = ax^3 + bx^2 + cx + d

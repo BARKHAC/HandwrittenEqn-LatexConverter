@@ -1,0 +1,1 @@
+{ \sqrt { \mbox { o } } } ^ { \frac { \mbox { L } } { \mbox { c } } } \left ( \mbox { G } \right )

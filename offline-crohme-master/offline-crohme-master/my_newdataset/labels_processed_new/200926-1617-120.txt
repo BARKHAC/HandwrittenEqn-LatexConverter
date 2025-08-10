@@ -1,0 +1,1 @@
+\sqrt { \int _ { { s + \phi } } ^ { 3 } { \mbox { z } + \left [ 4 \right ] } du }

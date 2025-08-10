@@ -1,0 +1,1 @@
+{ \frac { { \cdots - { \mbox { g } + \mbox { M } } } } { \int \int \mbox { b } dR dH } \mbox { N } }

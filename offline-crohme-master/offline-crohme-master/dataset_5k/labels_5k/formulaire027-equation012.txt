@@ -1,0 +1,1 @@
+g(w)= \sum_{n=1}^\infty g_n w^n

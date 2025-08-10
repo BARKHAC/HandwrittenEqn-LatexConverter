@@ -1,0 +1,1 @@
+v_3 = \frac{1}{4}(-1 - \sqrt{17}+\sqrt{34+2\sqrt17}) v_4 = \frac{1}{4}(-1 - \sqrt{17}-\sqrt{34+2\sqrt17})

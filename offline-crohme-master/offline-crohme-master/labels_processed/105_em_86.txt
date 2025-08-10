@@ -1,0 +1,1 @@
+A^n+\ldots+c_0I_n

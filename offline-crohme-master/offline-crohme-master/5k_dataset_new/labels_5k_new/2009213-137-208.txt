@@ -1,0 +1,1 @@
+\int _ { v } ^ { { \mu \mbox { e } } } \mbox { e } dA

@@ -1,0 +1,1 @@
+F^{VV}_{min}(\beta + 2\pi i/N)(F^{VV}_{min}(\beta))^2 F^{VV}_{min}(\beta - 2\pi i /N)

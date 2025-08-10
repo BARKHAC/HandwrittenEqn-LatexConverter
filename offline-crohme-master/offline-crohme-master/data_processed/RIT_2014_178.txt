@@ -1,0 +1,1 @@
+$ x ^ {\frac {p} {q}} = \sqrt {x ^ {p}} ABOVE {q} = \sqrt {x ^ {p}} ABOVE {q} $

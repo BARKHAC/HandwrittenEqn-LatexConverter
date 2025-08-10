@@ -1,0 +1,1 @@
+\left ( \left ( \int \left [ \mbox { o } \right ] dG \right ) \right )

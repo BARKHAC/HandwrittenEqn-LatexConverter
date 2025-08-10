@@ -1,0 +1,1 @@
+{ - \sum _ { { z \gt \frac { k } { \mbox { M } } } } { \mbox { i } } }

@@ -1,0 +1,1 @@
+a=\frac{A-\sin^2\theta_1}{\cos^2\theta_1}

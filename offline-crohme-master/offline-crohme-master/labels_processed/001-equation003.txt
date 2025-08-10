@@ -1,0 +1,1 @@
+\forall a , \forall b , \forall c , ( a , b , c ) = ( ( a , b ) , c )

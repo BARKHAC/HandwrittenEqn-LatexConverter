@@ -1,0 +1,1 @@
+i_A (t) = I_S \sqrt{2} \cos \alpha_S

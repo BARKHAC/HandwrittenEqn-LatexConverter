@@ -1,0 +1,1 @@
+x_k xx_k + y_k yx_k

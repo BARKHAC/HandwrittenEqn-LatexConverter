@@ -1,0 +1,1 @@
+\lim \limits _ {n \rightarrow \infty} y _ {n} = 0

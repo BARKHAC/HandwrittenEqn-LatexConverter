@@ -1,0 +1,1 @@
+M=(\alpha_{ik}.\beta_{jl})

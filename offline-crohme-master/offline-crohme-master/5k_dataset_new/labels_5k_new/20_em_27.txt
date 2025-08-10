@@ -1,0 +1,1 @@
+R_o=\frac{\left( \frac{\beta + 1}{\beta} \right)r_e+ \left(\beta + 2 +\frac{2}{\beta}\right)r_{o}}{2 + \frac{2}${\beta}}

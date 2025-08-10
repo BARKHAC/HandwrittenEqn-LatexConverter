@@ -1,0 +1,1 @@
+S_{max}=P\frac{\alpha}{1-\alpha}

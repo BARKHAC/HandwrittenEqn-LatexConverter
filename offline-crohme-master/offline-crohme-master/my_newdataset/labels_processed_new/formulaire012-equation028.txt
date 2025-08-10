@@ -1,0 +1,1 @@
+\alpha \rightarrow f(\alpha)

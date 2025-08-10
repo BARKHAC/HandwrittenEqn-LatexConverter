@@ -1,0 +1,1 @@
+{ \mbox { y } } _ { { \mbox { y } } _ { \mbox { b } } }

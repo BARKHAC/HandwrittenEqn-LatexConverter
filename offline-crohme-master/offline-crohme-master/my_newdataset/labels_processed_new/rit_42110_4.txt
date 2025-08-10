@@ -1,0 +1,1 @@
+\tan z = \frac {\sin z} {\cos z}

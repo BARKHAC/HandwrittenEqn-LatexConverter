@@ -1,0 +1,1 @@
+{ { \mbox { x } + C } \gt \mbox { C } }

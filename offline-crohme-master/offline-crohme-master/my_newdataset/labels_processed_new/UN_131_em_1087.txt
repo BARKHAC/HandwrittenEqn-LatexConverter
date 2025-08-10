@@ -1,0 +1,1 @@
+\beta = \log( 2 \sqrt{\pi}) = 1.27

@@ -1,0 +1,1 @@
+\sum \limits ^ {n + 1} _ {i = 1} i

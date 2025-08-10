@@ -1,0 +1,1 @@
+X=\frac{ad(c-b)-cb(a-d)}{ dc-ab}

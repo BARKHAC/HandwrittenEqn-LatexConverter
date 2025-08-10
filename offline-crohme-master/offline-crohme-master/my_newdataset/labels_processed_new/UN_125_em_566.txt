@@ -1,0 +1,1 @@
+y=\sin\frac{\phi}{2}

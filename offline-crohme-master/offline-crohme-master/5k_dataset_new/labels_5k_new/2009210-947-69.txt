@@ -1,0 +1,1 @@
+\int ^ { { - \mbox { p } } } _ { \sum { j } } { \mbox { w } \mbox { x } } d \alpha

@@ -1,0 +1,1 @@
+(\frac1{b_n}\sum_{k=0}^n b_k u_k )

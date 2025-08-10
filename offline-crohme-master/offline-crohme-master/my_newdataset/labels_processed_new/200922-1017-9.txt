@@ -1,0 +1,1 @@
+\int ^ { e } _ { { \mbox { a } } ^ { \sigma } } { \mbox { L } + \mbox { w } } dq

@@ -1,0 +1,1 @@
+{ \left [ \mbox { N } \right ] } ^ { { \mbox { C } - l } }

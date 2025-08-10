@@ -1,0 +1,1 @@
+w ^{\alpha} = \frac{2}{\sqrt{3}} ( \cos ( \frac{\alpha \pi}{3} + \frac{\pi}{6} ) + w \sin \frac{\alpha \pi}{3} )

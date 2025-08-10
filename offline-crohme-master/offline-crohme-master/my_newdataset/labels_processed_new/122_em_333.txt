@@ -1,0 +1,1 @@
+\mu_p = \left ( \frac{L}{t_r} \right )\left ( \frac{L_t}{V} \right )

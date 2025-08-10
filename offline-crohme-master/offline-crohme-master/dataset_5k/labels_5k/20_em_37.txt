@@ -1,0 +1,1 @@
+\frac{3 \times 3^2}{2} + \frac{5 \times (-5)^2}{2} = \frac{3 \times {v_1}^2}{2} + \frac{5 \times {v_2}^2}{2}

@@ -1,0 +1,1 @@
+I_i = \sum_{j} w_{ij} V_j

@@ -1,0 +1,1 @@
+r=\frac{|P_1-P_3|}{2\sin(\theta)}

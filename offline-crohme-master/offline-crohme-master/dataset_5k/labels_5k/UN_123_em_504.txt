@@ -1,0 +1,1 @@
+s(u)=\frac{\sin (u)}{\sin (\lambda)}

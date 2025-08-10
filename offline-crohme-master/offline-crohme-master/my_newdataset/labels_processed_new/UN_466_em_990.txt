@@ -1,0 +1,1 @@
+c^a \left( x \right) = c_1^a \left( x \right) - A_0^a\left( x \right)

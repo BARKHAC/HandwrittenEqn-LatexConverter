@@ -1,0 +1,1 @@
+\frac { z } { { \mbox { i } } _ { \mbox { m } } }

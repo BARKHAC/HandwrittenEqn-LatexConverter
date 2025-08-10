@@ -1,0 +1,1 @@
+{ \mbox { wa } \leq \sum { \mbox { S } } }

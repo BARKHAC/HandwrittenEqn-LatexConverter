@@ -1,0 +1,1 @@
+\lim_{x \rightarrow \infty} \frac{3 x - 2}{x + 3}

@@ -1,0 +1,1 @@
+{ { - E } - \mbox { c } \left ( \mbox { x } \right ) }

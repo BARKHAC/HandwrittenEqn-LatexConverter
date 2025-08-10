@@ -1,0 +1,1 @@
+\int { \sin } ^ { \mbox { f } } \mbox { i } d { \mbox { R } } _ { \mbox { H } }

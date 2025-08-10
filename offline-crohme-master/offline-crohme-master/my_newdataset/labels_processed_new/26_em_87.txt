@@ -1,0 +1,1 @@
+\int x\cos (x) dx = x\sin (x) - \int \sin (x) dx

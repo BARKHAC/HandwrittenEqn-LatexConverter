@@ -1,0 +1,27 @@
+{
+  "additional_special_tokens": [
+    "\\frac",
+    "\\sin",
+    "\\cos",
+    "\\sqrt",
+    "\\sum",
+    "\\forall",
+    "\\exists",
+    "\\log",
+    "\\pi",
+    "\\alpha",
+    "\\int",
+    "\\beta",
+    "\\|dots",
+    "\\infty",
+    "\\binom",
+    "\\vec",
+    "\\nabla",
+    "\\to"
+  ],
+  "cls_token": "[CLS]",
+  "mask_token": "[MASK]",
+  "pad_token": "[PAD]",
+  "sep_token": "[SEP]",
+  "unk_token": "[UNK]"
+}

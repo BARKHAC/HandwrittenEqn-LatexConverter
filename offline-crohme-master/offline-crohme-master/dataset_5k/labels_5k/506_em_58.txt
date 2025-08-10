@@ -1,0 +1,1 @@
+\cos \left(x-y\right)=\cos x \cos y + \sin x \sin y

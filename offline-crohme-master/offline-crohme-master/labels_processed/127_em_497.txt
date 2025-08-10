@@ -1,0 +1,1 @@
+\mathrm{Var}[X_i] = \frac{\alpha_i (\alpha_0-\alpha_i)}{\alpha_0^2 (\alpha_0+1)}

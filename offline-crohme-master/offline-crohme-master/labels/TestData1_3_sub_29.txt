@@ -1,0 +1,1 @@
+\left( a^{2} + b^{2} \right) \left( c^{2} + d^{2} \right) \geq \left( a c + b d \right)^{2}

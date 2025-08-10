@@ -1,0 +1,1 @@
+\sum _ { n = 1 } ^ N \left ( - 1 \right ) ^ n \sin \left ( n x \right )

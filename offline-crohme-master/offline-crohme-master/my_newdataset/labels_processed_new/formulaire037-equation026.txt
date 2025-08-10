@@ -1,0 +1,1 @@
+a_\gamma b^\gamma = \sum_{i=1}^n a_ib^i

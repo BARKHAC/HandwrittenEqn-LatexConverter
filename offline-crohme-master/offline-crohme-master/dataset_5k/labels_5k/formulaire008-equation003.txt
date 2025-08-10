@@ -1,0 +1,1 @@
+\theta = \frac {n \times 360} {60 \times 1000}

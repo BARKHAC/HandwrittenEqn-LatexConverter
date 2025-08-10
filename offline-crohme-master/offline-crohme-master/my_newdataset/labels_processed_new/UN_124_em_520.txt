@@ -1,0 +1,1 @@
+p(n)=\sin\frac{n\pi}{k+2r-2}

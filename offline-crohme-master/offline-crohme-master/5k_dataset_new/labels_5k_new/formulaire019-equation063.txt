@@ -1,0 +1,1 @@
+\sqrt{x \times y} = \sqrt{x} \times \sqrt{y}

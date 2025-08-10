@@ -1,0 +1,1 @@
+q=\lim_{x\rightarrow\infty}g(x)

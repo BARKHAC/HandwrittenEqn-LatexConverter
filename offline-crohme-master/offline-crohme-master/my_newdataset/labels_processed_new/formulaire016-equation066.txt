@@ -1,0 +1,1 @@
+a = \frac {c\sin\alpha}{\sin(\alpha+\beta)}

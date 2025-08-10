@@ -1,0 +1,1 @@
+{ { 8 + { \mbox { A } \mbox { m } } } \gt \sum { X } }

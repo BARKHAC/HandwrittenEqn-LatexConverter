@@ -1,0 +1,1 @@
+\frac{4}{q}+\frac{4}{2\pi-q}-\left(\frac{8}{\pi}-\frac{\pi}{2}\right)

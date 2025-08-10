@@ -1,0 +1,1 @@
+\sum _ { { X \gt a } } { { \alpha - c } }

@@ -1,0 +1,1 @@
+\mbox { pM } \left ( { - { \mbox { V } } ^ { \mbox { d } } } \right )

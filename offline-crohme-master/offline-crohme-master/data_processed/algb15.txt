@@ -1,0 +1,1 @@
+$ ( A - B ) \times C = ( A \times C ) - ( B \times C ) $

@@ -1,0 +1,1 @@
+2 \pi n ! e = 2 \pi n ! + \frac {2 \pi n !} {2} + \frac {2 \pi n !} {3 !} + \frac {2 \pi n ^ {!}} {4 !} + \ldots

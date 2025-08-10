@@ -1,0 +1,1 @@
+\frac{d}{dx}f(x)=f(x)(1-f(x))

@@ -1,0 +1,1 @@
+v_{x} = v_{0} \cos \alpha

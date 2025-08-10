@@ -1,0 +1,1 @@
+x_{1} \times x_{2} \times \ldots \times x_{n}

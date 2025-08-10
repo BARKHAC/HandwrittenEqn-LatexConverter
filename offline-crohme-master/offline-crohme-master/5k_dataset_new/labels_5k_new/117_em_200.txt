@@ -1,0 +1,1 @@
+1 + z = \frac{1}{\sqrt{1 - \frac{2 G M}{R c^2}}}

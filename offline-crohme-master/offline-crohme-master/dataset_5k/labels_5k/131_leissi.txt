@@ -1,0 +1,1 @@
+f(x) = a_nx^n + a_{n-1}x^{n-1}+\cdots+a_1x + a_0

@@ -1,0 +1,1 @@
+\alpha^{n} + a_{n-1}\alpha^{n-1} + \ldots + a_{1}\alpha + a_{0} = 0

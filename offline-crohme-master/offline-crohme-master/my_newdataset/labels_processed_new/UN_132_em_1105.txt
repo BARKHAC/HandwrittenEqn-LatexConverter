@@ -1,0 +1,1 @@
+z=\sqrt{\frac{m}{2}}(x+iy)

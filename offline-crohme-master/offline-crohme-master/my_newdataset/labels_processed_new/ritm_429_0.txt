@@ -1,0 +1,1 @@
+lim _ {\times \rightarrow + \infty} (\sqrt {x 2 + 4 x + 1} - \sqrt {x ^ 2 + x + 1})

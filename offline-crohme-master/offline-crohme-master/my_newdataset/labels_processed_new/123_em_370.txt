@@ -1,0 +1,1 @@
+V=\int_0^{x_1} 2S \mathrm dx

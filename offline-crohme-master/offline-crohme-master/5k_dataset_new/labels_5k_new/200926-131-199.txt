@@ -1,0 +1,1 @@
+{ \sqrt { \mbox { I } } } ^ { \left [ 7 \right ] } \left ( { R } ^ { j } \right )

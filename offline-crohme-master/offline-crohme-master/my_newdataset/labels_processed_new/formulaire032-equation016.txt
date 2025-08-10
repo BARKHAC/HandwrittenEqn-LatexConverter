@@ -1,0 +1,1 @@
+\cos(x) + \cos(x+\frac {2}{3}\pi) + \cos(x+\frac {4}{3}\pi)=0

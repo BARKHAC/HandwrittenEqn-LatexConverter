@@ -1,0 +1,1 @@
+{ \mbox { x } } ^ { \frac { T } { { g } _ { \mbox { EE } } } }

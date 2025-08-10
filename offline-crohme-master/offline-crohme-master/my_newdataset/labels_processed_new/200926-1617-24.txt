@@ -1,0 +1,1 @@
+\int e ^ { - z ^ 2 } d z = \mbox { erf } \left ( z \right )

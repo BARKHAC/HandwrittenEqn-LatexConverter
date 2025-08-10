@@ -1,0 +1,1 @@
+\sum\alpha_i+\sum\beta_i=1

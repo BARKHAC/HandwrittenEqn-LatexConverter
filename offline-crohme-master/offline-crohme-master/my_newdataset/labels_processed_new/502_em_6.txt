@@ -1,0 +1,1 @@
+u(x, y) = B \sin(n \pi x)\left(e^{n \pi y} - e^{-n \pi y}\right)

@@ -1,0 +1,1 @@
+\int \left( 2^{x} - 3 e^{x} \right) d x

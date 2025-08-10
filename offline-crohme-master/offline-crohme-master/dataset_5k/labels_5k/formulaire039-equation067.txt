@@ -1,0 +1,1 @@
+a^{m}\times a^{n}=a^{m+n}

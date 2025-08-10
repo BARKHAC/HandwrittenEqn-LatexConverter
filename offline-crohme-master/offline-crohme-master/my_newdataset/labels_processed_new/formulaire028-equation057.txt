@@ -1,0 +1,1 @@
+\lim_{x \rightarrow 1} f(x) =\lim_{x \rightarrow 1} \frac{x+4}{2x+1} = \frac { 5}{3}

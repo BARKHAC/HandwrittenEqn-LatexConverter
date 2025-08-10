@@ -1,0 +1,1 @@
+z_i^{l_i} z_j^{l_j}-z_i^{l_j}z_j^{l_i}

@@ -1,0 +1,1 @@
+\phi=\frac{\pi}{2p}

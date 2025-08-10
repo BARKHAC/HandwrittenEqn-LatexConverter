@@ -1,0 +1,1 @@
+\int \sum_{j=0}^\infty a_jz^j dz = \sum_{j=1}^\infty \frac{a_{j-1}}{j}x^j

@@ -1,0 +1,1 @@
+\int\sum_a A^a=0

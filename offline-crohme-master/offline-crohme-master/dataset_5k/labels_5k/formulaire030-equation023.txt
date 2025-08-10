@@ -1,0 +1,1 @@
+\frac {1 + \frac { 3}{5} x + \frac 3{20}x^2 + \frac 1{60}x^3}{1 - \frac { 2}{5}x + \frac 1{20}x^2}

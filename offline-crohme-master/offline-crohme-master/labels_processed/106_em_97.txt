@@ -1,0 +1,1 @@
+P^iP_i = m^2 c^2 \frac{V^iV_i}{(\sqrt{V^jV_j} )^2} = m^2c^2

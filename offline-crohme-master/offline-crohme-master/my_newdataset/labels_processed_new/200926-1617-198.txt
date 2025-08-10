@@ -1,0 +1,1 @@
+\sum _ { { \mbox { N } \geq \mbox { m } } } { \mbox { Y } }

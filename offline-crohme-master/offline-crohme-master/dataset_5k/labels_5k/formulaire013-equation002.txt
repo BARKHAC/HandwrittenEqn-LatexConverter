@@ -1,0 +1,1 @@
+\frac{dg_{i}}{ds}=\beta_{i}(g_{1},\ldots,g_{n})

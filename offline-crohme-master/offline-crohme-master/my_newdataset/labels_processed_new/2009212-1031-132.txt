@@ -1,0 +1,1 @@
+\sum _ { { \Delta \geq \sum { \mbox { H } } } } { { \cdots + \int \frac { H } { b } dT } }

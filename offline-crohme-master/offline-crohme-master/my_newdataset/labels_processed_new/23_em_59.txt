@@ -1,0 +1,1 @@
+\sum_{r=1}^n ar^b = a\sum_{r=1}^n r^b

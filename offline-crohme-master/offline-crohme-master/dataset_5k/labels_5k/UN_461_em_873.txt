@@ -1,0 +1,1 @@
+\frac{\sum_a \sin^3 \frac{a\pi}{g}}{\sum_a \sin \frac{a\pi}{g}}

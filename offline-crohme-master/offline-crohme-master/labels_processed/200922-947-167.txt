@@ -1,0 +1,1 @@
+{ { { \beta } ^ { { \mbox { E } + e } } + 0 } \lt \int \beta dk }

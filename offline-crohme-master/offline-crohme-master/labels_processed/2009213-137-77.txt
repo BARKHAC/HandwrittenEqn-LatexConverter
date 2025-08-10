@@ -1,0 +1,1 @@
+{ \mbox { g } \geq \frac { \mbox { b } } { \sum { \mbox { p } } } }

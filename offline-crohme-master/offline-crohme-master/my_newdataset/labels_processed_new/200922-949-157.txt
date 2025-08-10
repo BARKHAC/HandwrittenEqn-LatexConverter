@@ -1,0 +1,1 @@
+\int ^ { \mbox { m } } _ { { \gamma + \mbox { V } } } \frac { \theta } { \mbox { u } } de

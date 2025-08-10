@@ -1,0 +1,1 @@
+f(n\times m)=f(n)\times f(m)=0

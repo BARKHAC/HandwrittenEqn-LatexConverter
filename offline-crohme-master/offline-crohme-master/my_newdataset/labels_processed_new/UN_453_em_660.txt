@@ -1,0 +1,1 @@
+h^{-1}_i=\sin^2\theta_if^{-1}+\cos^2\theta_i

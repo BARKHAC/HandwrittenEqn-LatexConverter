@@ -1,0 +1,1 @@
+\lim_{r\rightarrow\infty}e^{2r}(n - H(r)) =2n

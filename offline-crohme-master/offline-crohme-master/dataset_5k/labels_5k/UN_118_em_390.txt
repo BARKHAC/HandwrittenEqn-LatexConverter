@@ -1,0 +1,1 @@
+(a-b)-(k-b-c) \times (a-b) = (a-k+c) \times (a-b)

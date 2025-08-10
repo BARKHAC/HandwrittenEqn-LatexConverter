@@ -1,0 +1,1 @@
+u(c)=\frac{1}{b-a}\int_a^b u(t)dt

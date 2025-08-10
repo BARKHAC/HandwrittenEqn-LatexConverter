@@ -1,0 +1,1 @@
+\sum \limits ^ {n} _ {i = 1} a ^ {2} = a ^ {2} \sum \limits ^ {n} _ {i = 1} 1 = n a ^ {2}

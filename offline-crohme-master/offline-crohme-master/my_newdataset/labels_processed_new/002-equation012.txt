@@ -1,0 +1,1 @@
+\forall t \in [0,2\pi], f(t) = e^{it}

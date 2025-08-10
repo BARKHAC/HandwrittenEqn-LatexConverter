@@ -1,0 +1,1 @@
+{ \sqrt { { \mbox { x } + N } } } ^ { { { \mbox { B } } _ { P } + \mbox { l } } }

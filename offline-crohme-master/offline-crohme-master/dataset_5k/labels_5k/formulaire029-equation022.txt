@@ -1,0 +1,1 @@
+\sum_{j=1}^i x_j^p \leq 9^p i

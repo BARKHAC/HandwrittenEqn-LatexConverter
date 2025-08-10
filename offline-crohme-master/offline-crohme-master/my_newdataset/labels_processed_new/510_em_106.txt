@@ -1,0 +1,1 @@
+\sqrt{ab} = \sqrt{a}\sqrt{b}

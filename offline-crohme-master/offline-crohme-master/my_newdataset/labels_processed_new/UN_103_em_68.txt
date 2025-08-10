@@ -1,0 +1,1 @@
+E=R\left( \frac{1}{L}+\frac{L}{2}-\sqrt{1+\frac{1}{L^{2}}-2M}\right)

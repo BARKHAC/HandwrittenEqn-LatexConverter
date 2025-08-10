@@ -1,0 +1,1 @@
+{ { I - m } \leq i \left ( \mbox { E } \right ) }

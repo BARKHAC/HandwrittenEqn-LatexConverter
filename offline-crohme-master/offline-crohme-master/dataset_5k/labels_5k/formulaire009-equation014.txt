@@ -1,0 +1,1 @@
+p = \frac{{v_{0}}^{2} \sin(2\alpha)}{2a} + \sqrt{\frac{({v_{0}}^{2} \sin(2\alpha))^{2}}{4a^{2}}+ \frac{2z_{0}(v_{0} \cos\alpha)^{2}}{a}}

@@ -1,0 +1,1 @@
+\frac { x_1 } { \frac { x_2 } { \frac { x_3 } { x_4 } } }

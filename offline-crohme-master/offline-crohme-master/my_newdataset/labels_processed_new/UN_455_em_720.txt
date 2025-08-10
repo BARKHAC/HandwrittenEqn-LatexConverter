@@ -1,0 +1,1 @@
+N_{21}(x,y,a)=-\frac{1}{8ay}\sum_{n=1}^{\infty }\cos (\frac{2n\pi x}{a})e^{-\frac{2n\pi y}{a}}

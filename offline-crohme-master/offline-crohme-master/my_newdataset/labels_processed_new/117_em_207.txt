@@ -1,0 +1,1 @@
+S(f) = \frac{1}{R}sinc^2\frac{f}{2R}\sin^2\frac{\pi f}{2R}

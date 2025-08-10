@@ -1,0 +1,1 @@
+{ - \int _ { \sqrt { \mbox { r } } } ^ { C } \frac { { \mbox { z } - A } } { { \mbox { y } r } } d { \mbox { X } } _ { \mbox { M } } }

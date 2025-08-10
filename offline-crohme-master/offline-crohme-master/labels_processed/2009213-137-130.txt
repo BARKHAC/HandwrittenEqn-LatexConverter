@@ -1,0 +1,1 @@
+\sum _ { { C \gt h } } { \mbox { E } }

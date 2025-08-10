@@ -1,0 +1,1 @@
+{ { \mbox { T } } ^ { { \mbox { d } + \mbox { v } } } \left [ \mu \right ] }

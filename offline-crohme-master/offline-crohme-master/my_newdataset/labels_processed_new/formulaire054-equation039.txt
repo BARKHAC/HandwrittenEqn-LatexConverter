@@ -1,0 +1,1 @@
+\frac{a}{b}= \frac{2^m5^ka}{2^m5^kb}=\frac{2^m5^ka}{10^{m+k}}

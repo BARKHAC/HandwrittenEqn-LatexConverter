@@ -1,0 +1,1 @@
+\int X(x) e^{- a x } a^x dx

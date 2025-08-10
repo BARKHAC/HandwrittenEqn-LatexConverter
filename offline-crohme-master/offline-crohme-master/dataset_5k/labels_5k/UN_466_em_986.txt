@@ -1,0 +1,1 @@
+2\sum_m \frac{\sin m x}{m} = \pi - x

@@ -1,0 +1,1 @@
+\lim_{n\rightarrow\infty}\frac{4}{3}\frac{2n^2+3n+1}{n^2}

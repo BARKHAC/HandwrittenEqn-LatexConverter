@@ -1,0 +1,1 @@
+\frac{T_H^{\frac{f}{2}}V_2}{T_H^{\frac{f}{2}}V_1} = \frac{T_C^{\frac{f}{2}}V_3}{T_C^{\frac{f}{2}}V_4}

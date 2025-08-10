@@ -1,0 +1,1 @@
+\frac { { p - { \mbox { e } + k } } } { \left ( \sigma \right ) }

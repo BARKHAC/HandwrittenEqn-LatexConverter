@@ -1,0 +1,1 @@
+\frac { \mbox { k } } { { \sqrt { { \mbox { g } + \frac { \mbox { X } } { \mbox { z } } } } } ^ { { \mbox { R } - \sqrt { l } } } }

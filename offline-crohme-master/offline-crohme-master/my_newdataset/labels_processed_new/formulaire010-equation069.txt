@@ -1,0 +1,1 @@
+p = p_t + p_c + p_n + p_e + p_r + p_v

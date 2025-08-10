@@ -1,0 +1,1 @@
+\lim_{P\rightarrow0}g_P=0

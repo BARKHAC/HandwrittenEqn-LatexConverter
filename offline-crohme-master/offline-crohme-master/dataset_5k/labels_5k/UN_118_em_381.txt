@@ -1,0 +1,1 @@
+\frac{dx_1dx_2du}{x_1x_2u}

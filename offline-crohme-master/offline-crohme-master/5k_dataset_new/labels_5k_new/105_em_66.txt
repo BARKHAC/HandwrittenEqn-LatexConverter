@@ -1,0 +1,1 @@
+\int_{b}^{a} f(x) \mathrm dx = -\int_{a}^{b} f(x) \mathrm dx

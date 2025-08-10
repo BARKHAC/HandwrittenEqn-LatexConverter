@@ -1,0 +1,1 @@
+\int \frac{dx}{x} + \int \frac{2}{x+1} dx

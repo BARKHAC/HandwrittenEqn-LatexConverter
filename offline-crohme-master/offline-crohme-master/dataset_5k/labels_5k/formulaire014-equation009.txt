@@ -1,0 +1,1 @@
+\beta = (\beta_{1},\beta_{2},\ldots,\beta_{n})

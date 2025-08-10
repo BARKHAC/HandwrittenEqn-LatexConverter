@@ -1,0 +1,1 @@
+g={\frac{\sqrt{1-Ar^2}}{a^3r^2\sin \theta}}

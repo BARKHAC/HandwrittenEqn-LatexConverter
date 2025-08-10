@@ -1,0 +1,1 @@
+w_{ij} = \frac{1}{n} \sum_{k=1}^p x_i^k x_j^k

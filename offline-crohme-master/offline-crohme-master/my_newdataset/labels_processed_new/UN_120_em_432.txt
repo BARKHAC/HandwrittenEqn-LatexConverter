@@ -1,0 +1,1 @@
+s_i=\sin\theta_i

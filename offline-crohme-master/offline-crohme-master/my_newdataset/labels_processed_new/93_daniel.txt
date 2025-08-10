@@ -1,0 +1,1 @@
+r(r_0 \sin(\theta - \theta_0)- r_1 \sin (\theta - \theta_1) ) = r_0 r_1 \sin (\theta_1 - \theta_0)

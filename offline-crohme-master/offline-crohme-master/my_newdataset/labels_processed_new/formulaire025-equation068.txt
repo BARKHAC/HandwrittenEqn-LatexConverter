@@ -1,0 +1,1 @@
+(y + z) \times x = (y \times x)+(z \times x)

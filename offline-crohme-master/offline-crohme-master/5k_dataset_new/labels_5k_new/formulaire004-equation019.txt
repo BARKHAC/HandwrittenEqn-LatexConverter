@@ -1,0 +1,1 @@
+e^{imx} - e^{-imx} = 2i\sin (mx)

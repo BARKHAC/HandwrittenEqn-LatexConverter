@@ -1,0 +1,1 @@
+log (\frac {a} {b}) = log (a) - log (b)

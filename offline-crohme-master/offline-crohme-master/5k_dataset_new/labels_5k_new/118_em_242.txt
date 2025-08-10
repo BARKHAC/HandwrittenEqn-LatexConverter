@@ -1,0 +1,1 @@
+\frac{\sin{\theta}}{v}= \mathrm{Cste}

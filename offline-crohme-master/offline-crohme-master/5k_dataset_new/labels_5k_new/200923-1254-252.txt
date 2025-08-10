@@ -1,0 +1,1 @@
+\sum _ { { k = M } } ^ { \sum { \mbox { k } } } { b }

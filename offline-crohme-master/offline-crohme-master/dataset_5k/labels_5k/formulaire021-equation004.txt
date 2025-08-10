@@ -1,0 +1,1 @@
+k_{tot} = k_1 + k_2 + k_3 + \ldots + k_n

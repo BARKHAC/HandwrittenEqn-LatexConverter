@@ -1,0 +1,1 @@
+p_1^{\gamma_1}p_2^{\gamma_2}\cdots p_n^{\gamma_n}

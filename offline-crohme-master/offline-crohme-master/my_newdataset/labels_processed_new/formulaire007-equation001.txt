@@ -1,0 +1,1 @@
+f(x) = \frac{x_b-x}{x_b-x_a} y_a + \frac{x-x_a}{x_b-x_a} y_b

@@ -1,0 +1,1 @@
+4\sin^2{(\frac {1}{ 2}k\theta p)}=2(1+\cos(k \theta p))

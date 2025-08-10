@@ -1,0 +1,1 @@
+g(x)=e^{\sin(x)}(x+\cos(x)\sin(x))

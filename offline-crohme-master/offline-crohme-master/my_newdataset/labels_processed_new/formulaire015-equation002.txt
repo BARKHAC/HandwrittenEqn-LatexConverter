@@ -1,0 +1,1 @@
+f(\alpha x_{1},\alpha x_{2}) = \alpha^{4} \times f(x_{1},x_{2})

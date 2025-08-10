@@ -1,0 +1,1 @@
+\alpha = \sqrt{2}

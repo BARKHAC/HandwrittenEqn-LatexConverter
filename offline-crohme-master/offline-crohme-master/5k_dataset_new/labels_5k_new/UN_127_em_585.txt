@@ -1,0 +1,1 @@
+\mathrm{tgh}=\mathrm{gh}_{1}+\mathrm{gh}_{2}+\mathrm{gh}_{3}

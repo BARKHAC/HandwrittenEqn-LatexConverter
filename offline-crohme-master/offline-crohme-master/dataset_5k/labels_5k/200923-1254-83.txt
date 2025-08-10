@@ -1,0 +1,1 @@
+\int \left ( n \right ) d { \mbox { w } } _ { m }

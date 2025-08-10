@@ -1,0 +1,1 @@
+{ \mbox { B } \geq { 1 + \mbox { y } } }

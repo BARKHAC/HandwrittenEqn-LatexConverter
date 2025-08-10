@@ -1,0 +1,1 @@
+m.\frac{d^2z}{dt^2}=q.{E_z}+q.(v_x.B_y-v_y.B_x)

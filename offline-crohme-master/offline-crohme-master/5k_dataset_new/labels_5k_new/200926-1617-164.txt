@@ -1,0 +1,1 @@
+{ \sqrt { \mbox { V } } } ^ { { m - \mbox { P } } }

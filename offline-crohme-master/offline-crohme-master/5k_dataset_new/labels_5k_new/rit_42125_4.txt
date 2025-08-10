@@ -1,0 +1,1 @@
+lim _ {x \rightarrow + \infty} \log _ {a} x = - \infty

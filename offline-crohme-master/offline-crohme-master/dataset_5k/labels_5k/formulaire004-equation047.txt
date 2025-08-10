@@ -1,0 +1,1 @@
+f(x)=\sum_{n=-\infty}^{\infty} a_{n} = x^{\alpha_{n}}

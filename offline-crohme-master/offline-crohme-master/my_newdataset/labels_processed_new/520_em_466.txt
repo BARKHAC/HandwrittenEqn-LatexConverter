@@ -1,0 +1,1 @@
+\lambda (t) = \lambda_0 (1-e ^{-\frac{t}{\lambda}})

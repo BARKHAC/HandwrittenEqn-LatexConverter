@@ -1,0 +1,1 @@
+-\frac{\sin(n \pi)}{n \pi} + \frac{\sin(n \pi)}{n \pi}

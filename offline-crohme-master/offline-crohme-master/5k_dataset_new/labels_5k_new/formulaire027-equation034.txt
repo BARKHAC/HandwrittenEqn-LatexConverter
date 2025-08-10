@@ -1,0 +1,1 @@
+\lim_{t \rightarrow t_0}\frac{y(t)}{x(t)} = \pm \infty

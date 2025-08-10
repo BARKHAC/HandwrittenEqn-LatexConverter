@@ -1,0 +1,1 @@
+\tan \theta = \frac {\sin \theta} {\cos \theta}

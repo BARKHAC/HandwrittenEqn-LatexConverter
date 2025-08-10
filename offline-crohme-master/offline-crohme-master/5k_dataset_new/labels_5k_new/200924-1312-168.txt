@@ -1,0 +1,1 @@
+\sqrt { { { - \sum { 1 } } + { \mbox { j } - \frac { \mbox { s } } { { \theta - \mbox { G } } } } } }

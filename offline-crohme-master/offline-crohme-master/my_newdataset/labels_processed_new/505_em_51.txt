@@ -1,0 +1,1 @@
+|x^{\frac{1}{n}} - c^{\frac{1}{n}}| = \frac{|x^{\frac{1}{n}} - c^{\frac{1}{n}}||x^{\frac{n-1}{n}} + x^{\frac{n-2}{n}}c^{\frac{1}{n}} + \cdots + x^{\frac{1}{n}}c^{\frac{n-2}{n}}|}{|x^{\frac{n-1}{n}} + x^{\frac{n-2}{n}}c^{\frac{1}{n}} + \cdots + x^{\frac{1}{n}}c^{\frac{n-2}{n}} + c^{\frac{n-1}{n}}|}

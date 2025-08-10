@@ -1,0 +1,1 @@
+\lim_{x \rightarrow \infty} p_k(x) = \infty \!

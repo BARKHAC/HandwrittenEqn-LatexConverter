@@ -1,0 +1,1 @@
+\int _0 ^ \pi \cos \left ( \frac { \theta } { 2 } \right ) d \theta

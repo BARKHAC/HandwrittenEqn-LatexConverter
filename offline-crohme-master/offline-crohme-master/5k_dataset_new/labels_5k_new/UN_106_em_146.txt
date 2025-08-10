@@ -1,0 +1,1 @@
+y^a=\{r\cos\theta_1,\ldots,r\sin\theta_1 \ldots\cos\theta_{d-1}, r\sin\theta_1\ldots\sin\theta_{d-1}\}

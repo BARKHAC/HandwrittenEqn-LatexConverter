@@ -1,0 +1,1 @@
+$ \frac {\log _ {b} x} {\log _ {b} a} $

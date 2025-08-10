@@ -1,0 +1,1 @@
+F_n(x)=\frac 1{n+1}x^n + Cste

@@ -1,0 +1,1 @@
+\beta = \frac{\beta_{1} - \beta_{2}}{\sqrt{3}}

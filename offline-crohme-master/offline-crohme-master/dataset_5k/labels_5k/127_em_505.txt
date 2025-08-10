@@ -1,0 +1,1 @@
+L(S) = \sum_{i=1}^{n} d\left(f(a_{i-1}),f(a_i)\right)

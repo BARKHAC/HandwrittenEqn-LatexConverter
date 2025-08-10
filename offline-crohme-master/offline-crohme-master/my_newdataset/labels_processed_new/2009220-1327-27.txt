@@ -1,0 +1,1 @@
+{ - \mbox { h } \left ( \mbox { i } \right ) }

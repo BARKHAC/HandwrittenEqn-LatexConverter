@@ -1,0 +1,1 @@
+\sqrt {\frac {1 + x} {1 - x}} = \sqrt {\frac {1 + x} {1 + x} \frac {1 + x} {1 - x}} = \frac {1 + x} {\sqrt {1 - x ^ {2}}}

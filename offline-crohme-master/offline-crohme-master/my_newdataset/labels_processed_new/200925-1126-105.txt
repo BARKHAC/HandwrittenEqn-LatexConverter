@@ -1,0 +1,1 @@
+\frac { { \mbox { I } + G } } { \frac { \mbox { h } } { \mbox { z } } }

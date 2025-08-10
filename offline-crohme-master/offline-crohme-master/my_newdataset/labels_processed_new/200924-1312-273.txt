@@ -1,0 +1,1 @@
+{ \frac { { \mbox { j } \left ( \mbox { s } \right ) - \sum { \mbox { X } } } } { { S } _ { { X } _ { f } } } \sum { \mbox { F } } }

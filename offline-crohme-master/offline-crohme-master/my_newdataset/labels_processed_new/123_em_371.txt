@@ -1,0 +1,1 @@
+C_p=\frac{\gamma n R}{\gamma-1}

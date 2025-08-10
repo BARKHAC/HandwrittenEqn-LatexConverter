@@ -1,0 +1,1 @@
+1+\frac{1}{z}\sin z\cos (z+2\alpha _{1})=2\int_{0}^{1}dx \cos^{2}(zx+\alpha _{1})

@@ -1,0 +1,1 @@
+x_1 \times x_2 \times x_3 \times x_4 = X

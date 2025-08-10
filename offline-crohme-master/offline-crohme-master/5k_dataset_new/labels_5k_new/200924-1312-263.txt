@@ -1,0 +1,1 @@
+\sum _ { { \mbox { Y } \gt \mbox { S } } } { { \mbox { m } + \mbox { p } } }

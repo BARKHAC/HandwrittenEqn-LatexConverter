@@ -1,0 +1,1 @@
+\sum _ { { b \gt p } } { { y - \mbox { Y } } }

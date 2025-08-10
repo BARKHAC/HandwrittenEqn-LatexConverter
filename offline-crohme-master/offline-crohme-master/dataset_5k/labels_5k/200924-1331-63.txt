@@ -1,0 +1,1 @@
+{ { \mbox { o } } _ { \sigma } \frac { { \mbox { e } + i } } { \mbox { C } } }

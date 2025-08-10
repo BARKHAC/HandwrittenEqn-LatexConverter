@@ -1,0 +1,1 @@
+\frac1x - \frac1y = \frac{y-x}{xy}

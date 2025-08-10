@@ -1,0 +1,1 @@
+a + \frac { \sqrt { b + c } } { 2 }

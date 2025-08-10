@@ -1,0 +1,1 @@
+\sum _ { { \lambda \gt \mbox { r } } } { { \mbox { X } + d } }

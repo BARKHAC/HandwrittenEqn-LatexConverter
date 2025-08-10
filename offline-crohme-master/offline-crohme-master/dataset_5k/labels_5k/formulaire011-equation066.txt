@@ -1,0 +1,1 @@
+g(X)=\sqrt{\sum_{i=1}^nf_i(x_i-X)^2}

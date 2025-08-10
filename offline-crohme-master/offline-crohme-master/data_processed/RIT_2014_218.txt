@@ -1,0 +1,1 @@
+$ \frac {\sin A + \sin 3 A} {\cos A + \cos 3 A} = \tan 2 A $

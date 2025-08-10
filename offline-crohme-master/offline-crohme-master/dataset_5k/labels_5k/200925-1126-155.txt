@@ -1,0 +1,1 @@
+{ \pi } ^ { { \frac { V } { h } + \left [ L \right ] } }

@@ -1,0 +1,1 @@
+\lim_{x \rightarrow 0} \left( 1 + x \right)^{\frac{1}{x}}

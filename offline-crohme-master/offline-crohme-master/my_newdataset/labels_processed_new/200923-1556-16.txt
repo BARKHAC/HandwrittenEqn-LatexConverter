@@ -1,0 +1,1 @@
+\frac { H \left ( f \right ) } { { \mbox { T } \mu } }

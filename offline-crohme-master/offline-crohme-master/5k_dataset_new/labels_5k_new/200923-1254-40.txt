@@ -1,0 +1,1 @@
+{ \frac { { c - \mbox { d } } } { \mbox { p } } \mbox { u } }

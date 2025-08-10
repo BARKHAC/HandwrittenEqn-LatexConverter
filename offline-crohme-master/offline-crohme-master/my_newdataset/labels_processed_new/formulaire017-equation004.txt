@@ -1,0 +1,1 @@
+f(s)=\sum_{n=1}^\infty{\frac{a_n}{n^s}}

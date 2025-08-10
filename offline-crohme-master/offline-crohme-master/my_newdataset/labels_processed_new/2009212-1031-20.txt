@@ -1,0 +1,1 @@
+{ \mbox { gF } } _ { \mbox { j } }

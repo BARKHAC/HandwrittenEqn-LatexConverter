@@ -1,0 +1,1 @@
+\sum _ { { g \gt { \mbox { R } } ^ { r } } } { { u + \left ( \mbox { c } \right ) } }

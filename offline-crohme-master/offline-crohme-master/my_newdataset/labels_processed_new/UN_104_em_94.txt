@@ -1,0 +1,1 @@
+z_3-\frac{1}{2} \leq z_8 \leq z_3+\frac{1}{2}

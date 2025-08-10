@@ -1,0 +1,1 @@
+f(z)=\sum_{n=-\infty}^{\infty} a_n(f)z^n

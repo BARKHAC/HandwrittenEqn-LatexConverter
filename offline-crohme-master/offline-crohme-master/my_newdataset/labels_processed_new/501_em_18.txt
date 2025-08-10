@@ -1,0 +1,1 @@
+\frac{2GMr - 2r^3 \pm r\sqrt{4r^4 - 8GMr^2 + 4G^2M^2 - 4r^4 + 4GMr^2}}{2(r^2 - GM)}

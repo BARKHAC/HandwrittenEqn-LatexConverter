@@ -1,0 +1,1 @@
+\int_{-\infty}^{+\infty} p_X(x) dx = 1

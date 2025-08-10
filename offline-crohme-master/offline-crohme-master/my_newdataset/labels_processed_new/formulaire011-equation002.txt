@@ -1,0 +1,1 @@
+(1 + \alpha^{-1}\beta)^{-1} = \sum_{i=0}^{\infty} (-1)^{i}(\alpha^{-1}\beta)^{i}

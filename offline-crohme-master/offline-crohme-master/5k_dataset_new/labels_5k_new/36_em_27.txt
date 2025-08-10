@@ -1,0 +1,1 @@
+f_d = \frac{A_{max}-A}{A_{max}-A_{min}}

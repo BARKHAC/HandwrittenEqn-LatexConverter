@@ -1,0 +1,1 @@
+{ 2 \geq \int \mbox { w } dV }

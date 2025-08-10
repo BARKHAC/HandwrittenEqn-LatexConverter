@@ -1,0 +1,1 @@
+dg = \frac{1}{|a|} da db

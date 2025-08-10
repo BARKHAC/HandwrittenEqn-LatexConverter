@@ -1,0 +1,1 @@
+r=\sqrt{y^ay^a}

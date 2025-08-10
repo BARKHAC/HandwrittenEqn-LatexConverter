@@ -1,0 +1,1 @@
+\frac{P_i}{\gamma}+\frac{V_i^2}{2g}-\frac{P_v}{\gamma}

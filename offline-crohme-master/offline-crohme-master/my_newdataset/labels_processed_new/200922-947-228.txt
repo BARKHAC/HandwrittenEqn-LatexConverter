@@ -1,0 +1,1 @@
+{ \mbox { q } } ^ { \gamma \left ( v \right ) } \left ( b \right )

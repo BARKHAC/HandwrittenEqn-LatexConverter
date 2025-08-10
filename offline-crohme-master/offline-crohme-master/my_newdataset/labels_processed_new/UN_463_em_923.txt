@@ -1,0 +1,1 @@
+\lim_{r \rightarrow 0}c(r) = c_{eff}

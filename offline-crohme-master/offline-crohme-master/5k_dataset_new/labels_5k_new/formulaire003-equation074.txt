@@ -1,0 +1,1 @@
+u_{n+p} = a_0u_n + a_1u_{n+1} + \ldots+ a_{p-1}u_{n+p-1}

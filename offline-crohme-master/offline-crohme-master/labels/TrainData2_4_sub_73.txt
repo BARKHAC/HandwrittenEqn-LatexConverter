@@ -1,0 +1,1 @@
+\alpha_{n + 1} - 3 \beta = \frac{3}{2} \alpha_{n} + \beta - 3 \beta

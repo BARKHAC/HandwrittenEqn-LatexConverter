@@ -1,0 +1,1 @@
+\log_{b} a = \frac{\log_{c} a}{\log_{c} b}

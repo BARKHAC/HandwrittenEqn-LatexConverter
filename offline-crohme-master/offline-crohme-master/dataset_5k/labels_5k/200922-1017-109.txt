@@ -1,0 +1,1 @@
+{ \cdots + { { \mbox { r } \mbox { B } } - N } }

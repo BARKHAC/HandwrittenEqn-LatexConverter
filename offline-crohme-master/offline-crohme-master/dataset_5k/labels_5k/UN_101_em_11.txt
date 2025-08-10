@@ -1,0 +1,1 @@
+a_n=\frac{-i\sqrt{n}}{2}(q_n+i\frac{2}{n}p_n)

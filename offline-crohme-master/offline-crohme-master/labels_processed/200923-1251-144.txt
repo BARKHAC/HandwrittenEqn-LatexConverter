@@ -1,0 +1,1 @@
+{ { \mbox { P } - \sqrt { 4 } } \lt \left [ \mbox { k } \right ] }

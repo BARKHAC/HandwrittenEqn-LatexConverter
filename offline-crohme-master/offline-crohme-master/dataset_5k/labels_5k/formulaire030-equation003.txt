@@ -1,0 +1,1 @@
+0=\int_a^a f(x) dx= \int_a^c f(x) dx+ \int_c^a f(x) dx

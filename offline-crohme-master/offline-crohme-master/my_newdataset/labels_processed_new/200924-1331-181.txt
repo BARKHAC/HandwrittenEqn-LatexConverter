@@ -1,0 +1,1 @@
+\frac { \int G dn } { { d C } }

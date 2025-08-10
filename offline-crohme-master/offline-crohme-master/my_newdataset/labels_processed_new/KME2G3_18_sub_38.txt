@@ -1,0 +1,1 @@
+\frac 2 {\frac {3 m - 2 n \times 9^n - 9^m} {2 n - 1}}

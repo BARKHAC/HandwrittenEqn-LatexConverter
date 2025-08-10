@@ -1,0 +1,1 @@
+\sum_j n_j=\sum_j m_j

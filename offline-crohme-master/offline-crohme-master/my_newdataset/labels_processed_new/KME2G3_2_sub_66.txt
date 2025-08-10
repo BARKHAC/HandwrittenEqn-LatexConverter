@@ -1,0 +1,1 @@
+\int_0^{\frac \pi 2} \{ ( \cos x + e^x ) - ( e^x - \cos x ) \} d x

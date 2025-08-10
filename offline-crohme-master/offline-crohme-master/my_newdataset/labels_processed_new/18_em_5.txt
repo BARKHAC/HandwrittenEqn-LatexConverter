@@ -1,0 +1,1 @@
+\int g = \lim_{n \rightarrow \infty} \int g_n \!

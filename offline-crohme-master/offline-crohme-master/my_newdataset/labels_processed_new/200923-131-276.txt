@@ -1,0 +1,1 @@
+{ \left ( { - \int { \mbox { y } } _ { e } da } \right ) } ^ { i }

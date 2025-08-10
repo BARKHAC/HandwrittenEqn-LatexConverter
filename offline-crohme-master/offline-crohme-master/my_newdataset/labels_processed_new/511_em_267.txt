@@ -1,0 +1,1 @@
+\frac{\sqrt{a}}{\sqrt{b}} = \sqrt{\frac{a}{b}}

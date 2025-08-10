@@ -1,0 +1,1 @@
+\frac { { \cdots + 0.3 } } { \int F dj }

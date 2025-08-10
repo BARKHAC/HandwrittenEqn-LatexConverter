@@ -1,0 +1,1 @@
+\Delta w_{ij}=f(y_i)\times g(y_j)

@@ -1,0 +1,1 @@
+\sum _ { { g = z } } ^ { \sqrt { \mbox { j } } } { \mbox { L } }

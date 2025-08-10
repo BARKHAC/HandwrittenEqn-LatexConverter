@@ -1,0 +1,1 @@
+a(x-b) + b(y+a) + c = ax -ba +ba +by +c = 0

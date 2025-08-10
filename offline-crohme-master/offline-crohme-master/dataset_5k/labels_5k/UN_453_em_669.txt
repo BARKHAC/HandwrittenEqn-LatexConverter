@@ -1,0 +1,1 @@
+\int d^{10} x \sqrt G R

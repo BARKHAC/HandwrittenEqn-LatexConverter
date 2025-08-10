@@ -1,0 +1,1 @@
+z\rightarrow \frac{z^{n+1}}{a^n}

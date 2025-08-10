@@ -1,0 +1,1 @@
+{ \left [ \frac { B } { 7 } \right ] } ^ { { N + 6 } }

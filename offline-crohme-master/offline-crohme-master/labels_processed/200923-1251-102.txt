@@ -1,0 +1,1 @@
+{ \sum { { 8.3 - \int { \mbox { d } } _ { v } d { x } _ { \Delta } } } + 7 }

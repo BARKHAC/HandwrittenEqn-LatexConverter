@@ -1,0 +1,1 @@
+\frac { \sin \left ( x \right ) } { \cos \left ( x \right ) } = \tan \left ( x \right )

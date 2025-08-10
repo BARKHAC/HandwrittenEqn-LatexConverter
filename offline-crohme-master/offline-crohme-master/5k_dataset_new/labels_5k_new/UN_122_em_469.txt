@@ -1,0 +1,1 @@
+2(\sin \gamma S^3)^2 = 1 - \cos 2\gamma S^3

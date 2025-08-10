@@ -1,0 +1,1 @@
+y^2 \pm \sqrt{u-p}\Bigg(y - \frac{q}{2(u-p)} \Bigg) + \frac{u}{2} = 0

@@ -1,0 +1,1 @@
+10x^2\sqrt{5+2\sqrt{5}} + 5x - \sqrt{5+2\sqrt{5}}

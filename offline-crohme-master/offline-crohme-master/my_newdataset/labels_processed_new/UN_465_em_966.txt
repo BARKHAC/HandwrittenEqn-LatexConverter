@@ -1,0 +1,1 @@
+2\sin(x-y)\sin(x+y)=\cos(2y)-\cos(2x)

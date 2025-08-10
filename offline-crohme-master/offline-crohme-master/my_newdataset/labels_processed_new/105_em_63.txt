@@ -1,0 +1,1 @@
+\frac{1}{T} \int_{-T/2}^{T/2} P(t) e^{-i \frac{2n\pi}{T}} dt=c_n(P) (1)

@@ -1,0 +1,1 @@
+\forall\gamma\in X

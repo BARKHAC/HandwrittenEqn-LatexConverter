@@ -1,0 +1,1 @@
+\sum_b\pi_{ab}\pi_{bc}=\pi_{ac}

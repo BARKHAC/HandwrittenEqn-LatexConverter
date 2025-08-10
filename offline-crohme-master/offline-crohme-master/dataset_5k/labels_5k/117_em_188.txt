@@ -1,0 +1,1 @@
+\left|V_s\right|=\frac{V_s}{V_e}

@@ -1,0 +1,1 @@
+\cos\theta X^6 + \sin\theta X^2

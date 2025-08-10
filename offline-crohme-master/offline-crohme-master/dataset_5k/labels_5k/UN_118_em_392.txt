@@ -1,0 +1,1 @@
+f={\frac{a^2r^2\sin \theta}{\sqrt{1-Ar^2}}}

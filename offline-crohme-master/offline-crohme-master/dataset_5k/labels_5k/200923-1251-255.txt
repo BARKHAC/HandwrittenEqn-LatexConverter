@@ -1,0 +1,1 @@
+{ { \left ( E \right ) } ^ { { \mbox { h } - j } } \phi }

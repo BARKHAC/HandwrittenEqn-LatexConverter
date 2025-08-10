@@ -1,0 +1,1 @@
+V_i = \frac{v_i}{v} = \frac{p_i}{p}

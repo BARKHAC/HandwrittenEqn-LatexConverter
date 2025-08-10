@@ -1,0 +1,1 @@
+\sum _ { { \mbox { n } \geq w } } { \mbox { j } }

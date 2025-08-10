@@ -1,0 +1,1 @@
+\mbox { j } \left ( \sum { i } \right )

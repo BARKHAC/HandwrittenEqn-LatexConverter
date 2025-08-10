@@ -1,0 +1,1 @@
+\frac{B^2c^2}{4\pi\sin^2\left(\frac{b+c}{2}\right)}

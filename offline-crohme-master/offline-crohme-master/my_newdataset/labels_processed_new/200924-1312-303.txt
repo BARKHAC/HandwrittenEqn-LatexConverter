@@ -1,0 +1,1 @@
+\sum _ { { 4 = N } } ^ { \left [ R \right ] } { { a + \mbox { w } } }

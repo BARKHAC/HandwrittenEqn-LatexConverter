@@ -1,0 +1,1 @@
+G=10 \log \left( {\frac{V_{s}}{V_{e}}} \right)^2 \mathrm{dB}

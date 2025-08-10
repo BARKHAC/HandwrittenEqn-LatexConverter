@@ -1,0 +1,1 @@
+x^{i + 2 j \times k^{3} - \frac{j}{2 i}}

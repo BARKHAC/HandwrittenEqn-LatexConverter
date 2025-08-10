@@ -1,0 +1,1 @@
+a = \int_{\alpha}^\beta x_1(y)dy + \int_{\alpha}^\beta x_2(y)dy

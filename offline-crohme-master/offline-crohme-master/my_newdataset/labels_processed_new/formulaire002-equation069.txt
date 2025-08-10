@@ -1,0 +1,1 @@
+z_n = z - f(x_0 + \ldots + x_n)

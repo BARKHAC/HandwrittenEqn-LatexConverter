@@ -1,0 +1,1 @@
+x = \frac {af(b) - bf(a)} {f(b) - f(a)}

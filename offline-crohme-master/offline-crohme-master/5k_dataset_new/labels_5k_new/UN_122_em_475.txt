@@ -1,0 +1,1 @@
+f_{abc} = f_{bca} = f_{cab}

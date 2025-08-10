@@ -1,0 +1,1 @@
+e^{\gamma^{5}}=\cos\alpha+\gamma^{5}\sin\alpha

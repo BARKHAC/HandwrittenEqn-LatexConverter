@@ -1,0 +1,1 @@
+\frac { { R + \mbox { i } } } { \left [ j \right ] }

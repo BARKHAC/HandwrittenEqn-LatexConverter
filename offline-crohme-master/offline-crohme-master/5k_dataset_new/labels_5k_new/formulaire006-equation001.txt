@@ -1,0 +1,1 @@
+r = \alpha(\theta) \pm d

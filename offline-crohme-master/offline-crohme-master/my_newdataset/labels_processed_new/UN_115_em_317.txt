@@ -1,0 +1,1 @@
+\sin\phi=2\sin\frac{\phi}{2}\cos\frac{\phi}{2}

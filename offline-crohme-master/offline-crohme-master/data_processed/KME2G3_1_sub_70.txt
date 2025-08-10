@@ -1,0 +1,1 @@
+[ \frac 2 3 ( 1 + \frac 9 4 x )^{\frac 3 2} \frac 4 9 ]_0^4

@@ -1,0 +1,1 @@
+d_{2,0}^{2} = \frac{\sqrt{6}}{4} \sin^2 \theta

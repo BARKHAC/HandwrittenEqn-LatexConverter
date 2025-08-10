@@ -1,0 +1,1 @@
+\lim_{x\rightarrow \infty} e^{-x^{2\alpha-2} x^{4\alpha-2}}

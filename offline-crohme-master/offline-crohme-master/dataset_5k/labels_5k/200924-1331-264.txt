@@ -1,0 +1,1 @@
+\left ( \int \mbox { g } dy \right )

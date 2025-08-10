@@ -1,0 +1,1 @@
+a^p - b^p = (a-b)(a^{p-1} + a^{p-2} b + \ldots + a b^{p-2} + b^{p-1} )

@@ -1,0 +1,1 @@
+{ - \frac { { \sum { \gamma } - \int X d \beta } } { \sqrt { z } } }

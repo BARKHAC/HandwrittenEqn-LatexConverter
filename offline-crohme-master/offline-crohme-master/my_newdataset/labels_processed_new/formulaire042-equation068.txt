@@ -1,0 +1,1 @@
+\frac{1}{\sqrt{a}}=\sqrt{\frac{1}{a}}

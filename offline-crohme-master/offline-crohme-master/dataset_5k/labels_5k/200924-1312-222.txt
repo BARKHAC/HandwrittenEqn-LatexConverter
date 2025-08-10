@@ -1,0 +1,1 @@
+\frac { f } { \left ( \mbox { d } \right ) }

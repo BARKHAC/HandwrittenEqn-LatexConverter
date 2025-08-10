@@ -1,0 +1,1 @@
+x_i^{s-1}x_j^p+\ldots +x_i^px_j^{s-1}

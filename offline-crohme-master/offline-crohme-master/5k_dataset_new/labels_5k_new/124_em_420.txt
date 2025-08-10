@@ -1,0 +1,1 @@
+F_u = M_{u u} M_v + M_{u v} M_u

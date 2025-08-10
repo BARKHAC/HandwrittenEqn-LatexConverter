@@ -1,0 +1,1 @@
+-2\int_{2}^{\infty}\frac{dy}{\sqrt{y^{2}-4}}\frac{1}{(y+2\sigma_{1})^{3}}

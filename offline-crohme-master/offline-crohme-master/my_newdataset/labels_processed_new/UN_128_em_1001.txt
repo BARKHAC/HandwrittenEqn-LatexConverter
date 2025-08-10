@@ -1,0 +1,1 @@
+y^{\prime}x^{\prime}=qx^{\prime}y^{\prime}

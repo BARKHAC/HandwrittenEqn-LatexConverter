@@ -1,0 +1,1 @@
+P(X_1, \ldots, X_N) = \frac{e^{-\frac{E}{k_B T}}}{\int dX_1 dX_2 \ldots}

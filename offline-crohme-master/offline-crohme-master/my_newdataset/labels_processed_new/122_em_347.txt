@@ -1,0 +1,1 @@
+\Delta s^2 = c^2 \Delta t^2 - \left( \Delta x^2 + \Delta y^2 + \Delta z^2 \right) = c^2 \Delta t^2 -\Delta l^2

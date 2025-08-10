@@ -1,0 +1,1 @@
+(x_1, x_2, x_3, \ldots)+(y_1, y_2, y_3, \ldots) = (x_1+y_1, x_2+y_2, x_3+y_3, \ldots)

@@ -1,0 +1,1 @@
+lim _ {x \rightarrow 3} x ^ {2} = 9

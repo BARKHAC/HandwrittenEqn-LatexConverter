@@ -1,0 +1,1 @@
+\alpha_{n}=\sum_{i\leq n} a_{i}p^{i}

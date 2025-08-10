@@ -1,0 +1,1 @@
+{ \left [ \int F dG \right ] } ^ { 4.84 } \left ( { T } _ { M } \right )

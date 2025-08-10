@@ -1,0 +1,1 @@
+{ \mbox { S } } _ { d } \left ( \mbox { E } \right )

@@ -1,0 +1,1 @@
+p(X)=X^n-\sum_{k=1}^n a_{n-k}X^{n-k}

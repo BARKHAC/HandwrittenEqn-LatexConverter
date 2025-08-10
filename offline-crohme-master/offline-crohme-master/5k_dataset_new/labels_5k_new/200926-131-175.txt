@@ -1,0 +1,1 @@
+\frac { { \mbox { x } + \lambda } } { \sqrt { \mbox { L } } }

@@ -1,0 +1,1 @@
+\frac { { \sqrt { R } + \mbox { F } } } { \sum { B } }

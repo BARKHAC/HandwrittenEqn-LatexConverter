@@ -1,0 +1,1 @@
+{ \mbox { L } \sum _ { { \mbox { m } \gt S } } { \sigma } }

@@ -1,0 +1,1 @@
+V = a_1 + a_2 \cos\theta + a_3 \cos2\theta

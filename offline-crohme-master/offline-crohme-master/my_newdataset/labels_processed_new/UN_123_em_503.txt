@@ -1,0 +1,1 @@
+\frac{(ga)^{4}}{4!}\frac{4\times3}{2!}\times2^{4}\times 2=\frac{(2ga)^{4}}{2!}

@@ -1,0 +1,1 @@
+{x} = \sqrt {r^2 + a^2} \sin\theta\cos\phi

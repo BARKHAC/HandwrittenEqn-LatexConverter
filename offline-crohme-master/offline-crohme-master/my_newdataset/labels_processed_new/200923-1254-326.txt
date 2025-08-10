@@ -1,0 +1,1 @@
+{ T } ^ { { \mbox { c } + \mbox { L } } } \left ( \mbox { m } \right )

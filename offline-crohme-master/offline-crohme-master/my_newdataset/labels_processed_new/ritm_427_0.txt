@@ -1,0 +1,1 @@
+\cos c = \cos a \cos b + \sin a \sin 1 b \cos \gamma

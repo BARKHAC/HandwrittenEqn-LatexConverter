@@ -1,0 +1,1 @@
+\frac{m+m^{\prime}}{n+n^{\prime}} \gt \frac{a}{b}

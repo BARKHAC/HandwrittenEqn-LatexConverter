@@ -1,0 +1,1 @@
+\frac{1}{\tan\left(\theta\right)} = \frac{\cos\left(\theta\right)}{\sin\left(\theta\right)}
