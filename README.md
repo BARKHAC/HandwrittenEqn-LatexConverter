@@ -1,0 +1,3 @@
+This repo can be cloned and worked upon.
+
+The offline-crohme-master folder includes the source files to convert inkml to jpg-txt pairs of Handwritten Equations - Latex equivalents. The ipynb file is the experimentation notebook which was used for data loading. and setting the parameters of the model before training. It includes collation steps as well as resize operations to fit in the channel. Additionally there are preconverted 5k and 10k image data pairs already in the offline-crohme-master folder. I have added extra scripts to orient the images, remove the axes and to convert to rgb. The tokenizer has been trained on the latex pairs + arXiv supplementary latex equation dataset. The script for training the Sentencepiece Tokenizer is also included in this project.
